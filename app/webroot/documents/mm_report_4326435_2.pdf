@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />    <title>Lisbeth</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/elev-admin/img/favicon-32.png" type="icon" rel="icon" /><link href="/elev-admin/img/favicon-32.png" type="icon" rel="shortcut icon" />
+	<link rel="stylesheet" type="text/css" href="/elev-admin/css/front/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="/elev-admin/css/front/fonts/font-awesome.min.css" />
+	<link rel="stylesheet" type="text/css" href="/elev-admin/css/front/style.css" />
+	<link rel="stylesheet" type="text/css" href="/elev-admin/css/front/fonts/fontstyle.css" />
+	<link rel="stylesheet" type="text/css" href="/elev-admin/css/front/responsive.css" />
+	<link rel="stylesheet" type="text/css" href="/elev-admin/css/front/fullcalendar.css" />
+	<link rel="stylesheet" type="text/css" href="/elev-admin/css/front/jquery-ui.css" />
+	<link rel="stylesheet" type="text/css" href="/elev-admin/css/front/jquery.fancybox.css" />
+	<link rel="stylesheet" type="text/css" href="/elev-admin/css/front/chosen/chosen.min.css" />
+	<link rel="stylesheet" type="text/css" href="/elev-admin/css/front/jquery.datetimepicker.css" />
+
+	<script type="text/javascript" src="/elev-admin/js/front/jquery-1.9.0.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/fullcalendar/fullcalendar.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/general.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/jquery.datetimepicker.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/jquery.scrollTo.min.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/ui/jquery-ui-1.9.2.custom.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/fancybox/jquery.fancybox.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/jquery.datetimepicker.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/chosen/chosen.jquery.min.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/chosen/chosen.proto.min.js"></script>
+	<script type="text/javascript" src="/elev-admin/js/front/ossuploadergallery.js.js"></script>
+    
+    <script type="text/javascript">
+        jQuery().ready(function(){
+            jQuery('.submenu').hide();
+            jQuery('.has-submenu').click(function(){
+                if(jQuery(this).hasClass('open-block')){
+                    jQuery(this).find('.submenu').slideUp();
+                    jQuery(this).removeClass('open-block');                        
+                }else{
+                     jQuery(this).find('.submenu').slideDown();
+                     jQuery(this).addClass('open-block');  
+                }                    
+            });
+            
+            jQuery('.side-bar').height(jQuery(document).height());
+        });
+   </script>
+   <style>
+                .area-manovre-color{
+            color       : #ffffff;
+            background  : #22B379 !important;
+            border      : 1px solid #3f3f3f;
+            border-bottom: 0px;
+        }
+                .area-glatbane-color{
+            color       : #ffffff;
+            background  : #3F3F3F !important;
+            border      : 1px solid #3f3f3f;
+            border-bottom: 0px;
+        }
+            </style>
+</head>
+<body>
+    <div id="main" class="container-fluid">
+        <div class="header row">
+            <div class="col-xs-12 col-sm-3 logo">
+    <a href="/elev-admin/pages/home">
+        <img src="/elev-admin/img/logo2.png" alt="" />    </a>
+</div>
+<div class="col-xs-12 col-sm-9">
+    <div class="header-txt">
+    <h3>Lisbeth.dk Student Portal</h3>
+    </div>
+</div>            <div class="col-xs-12 col-sm-9">
+                <ol class="breadcrumb">
+    <li><a href="/elev-admin/pages/home"><i class="fa fa-home"></i></a>    </li>
+    </ol>            </div>
+        </div>
+        <div class="content">
+            <div class="row">
+                <div class="col-xs-12 col-sm-3 navbar navbar-default menu menu-default">
+                    <div class="side-bar">                        
+                    <div class="navbar-header">
+       <button type="button" class="navbar-toggle menu-toggle pull-right" data-toggle="collapse" 
+          data-target="#menu">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+       </button>
+</div>
+<div class="collapse navbar-collapse menu-default" id="menu">
+   <ul class="nav navbar-nav sidebar-item">
+       <li class="has-submenu">
+            <a href="/elev-admin/pages/home"><i class="fa fa-dashboard"></i>Student Portal</a>       </li>
+       <li class="has-submenu">
+           <a href="/elev-admin/users/view"><i class="fa fa-user"></i>Your Profile</a>       </li>
+       <li class="has-submenu">
+            <a href="/elev-admin/drivingLessons"><i class="fa fa-car"></i>Your Driving Lessons</a>       </li>
+       <li class="has-submenu">
+            <a href="/elev-admin/users/drivingLessons"><i class="fa fa-car"></i>Your Booked Tracks</a>       </li>
+       <li class="has-submenu">
+            <a href="/elev-admin/users/studentCharges"><i class="fa fa-money"></i>Student Charges</a>       </li>
+       <!-- <li class="has-submenu">
+            <a href="/elev-admin/users/products"><i class="fa fa-shopping-cart"></i>Products</a>       </li> -->
+       <li class="has-submenu">
+           <a href="/elev-admin/pages/document"><i class="fa fa-list-alt"></i>Documents</a>       </li>
+       <li class="has-submenu">
+           <a href="/elev-admin/users/logout"><i class="fa fa-power-off"></i>Logout</a>       </li>
+   </ul>
+</div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-9 menu_ct">                    
+                                    
+                    <div class="row">
+    <div class="col-xs-12 col-sm-8 info">
+        <!--<h3>Hej John john</h3>-->
+        <h3>Hello  ravi gajera</h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra risus 
+            sit amet vestibulum consectetur. Sed lacinia tortor in ex vehicula, vel mollis
+            nisi fringilla. Nulla facilisi. Ut congue blandit nisl ac semper. Vestibulum ut
+            vulputate est. Suspendisse fermentum vel neque eget pulvinar. Sed vitae diam massa.
+            Nunc non lorem quis lacus tincidunt tristique vel eu nisl.Aenean mauris ex, eleifend
+            ac nibh in, blandit pharetra ligula. Proin mattis ex sed massa fringilla, vitae 
+            hendrerit sapien cursus. Maecenas consectetur nunc non pulvinar vehicula. Donec 
+        </p>
+        <p>
+            pulvinar eleifend sapien, vitae congue nulla accumsan vitae. Nulla facilisi.
+            Quisque ultrices arcu ac neque maximus, et rutrum felis eleifend. Mauris sit 
+            amet ex quis leo volutpat laoreet. Nunc imperdiet rutrum erat non placerat. 
+            Vivamus consectetur, urna sed mollis commodo, quam mi elementum arcu, eu ornare 
+            enim est sed lorem. Proin vitae tempor leo. Nulla tortor 
+        </p>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+                    </div>
+</div>    
+                </div>
+            </div>
+            <div id="exc" style="display: none;"></div>
+        </div>
+    </div>
+	<table class="cake-sql-log" id="cakeSqlLog_15211137495aaa5a9569adc9_19198482" summary="Cake SQL Log" cellspacing="0"><caption>(default) 7 queries took 2 ms</caption>	<thead>
+		<tr><th>Nr</th><th>Query</th><th>Error</th><th>Affected</th><th>Num. rows</th><th>Took (ms)</th></tr>
+	</thead>
+	<tbody>
+	<tr><td>1</td><td>SELECT `Area`.`slug`, `Area`.`name` FROM `elevsyst_elevsystem`.`areas` AS `Area`   WHERE 1 = 1</td><td></td><td style="text-align: right">2</td><td style="text-align: right">2</td><td style="text-align: right">0</td></tr>
+<tr><td>2</td><td>SELECT `Option`.`id`, `Option`.`key`, `Option`.`value` FROM `elevsyst_elevsystem`.`options` AS `Option`   WHERE 1 = 1</td><td></td><td style="text-align: right">10</td><td style="text-align: right">10</td><td style="text-align: right">0</td></tr>
+<tr><td>3</td><td>SELECT `User`.`id`, `User`.`avatar_id`, `User`.`username`, `User`.`password`, `User`.`email_id`, `User`.`firstname`, `User`.`lastname`, `User`.`nick_name_user`, `User`.`nick_name_company`, `User`.`phone_no`, `User`.`role`, `User`.`status`, `User`.`activation_key`, `User`.`student_number`, `User`.`company`, `User`.`company_id`, `User`.`address`, `User`.`zip`, `User`.`city`, `User`.`other_phone_no`, `User`.`date_of_birth`, `User`.`balance`, `User`.`last_balance`, `User`.`last_entry_for_balance`, `User`.`teacher_id`, `User`.`crm_id`, `User`.`assistent_id`, `User`.`handed_firstaid_papirs`, `User`.`theory_test_passed`, `User`.`student_medical_profile`, `User`.`created`, (CONCAT(`User`.`firstname`, &quot; &quot;, `User`.`lastname`)) AS  `User__name` FROM `elevsyst_elevsystem`.`users` AS `User`   WHERE `User`.`id` = 2506    LIMIT 1</td><td></td><td style="text-align: right">1</td><td style="text-align: right">1</td><td style="text-align: right">1</td></tr>
+<tr><td>4</td><td>SELECT `Area`.`id`, `Area`.`name`, `Area`.`slug`, `Area`.`address`, `Area`.`color`, `Area`.`created`, `Area`.`modified` FROM `elevsyst_elevsystem`.`areas` AS `Area`   WHERE 1 = 1</td><td></td><td style="text-align: right">2</td><td style="text-align: right">2</td><td style="text-align: right">0</td></tr>
+<tr><td>5</td><td>SELECT `AreaTimeSlot`.`id`, `AreaTimeSlot`.`area_id`, `AreaTimeSlot`.`time_slots` FROM `elevsyst_elevsystem`.`area_time_slots` AS `AreaTimeSlot`   WHERE `AreaTimeSlot`.`area_id` IN (1, 5)   ORDER BY `AreaTimeSlot`.`time_slots` ASC</td><td></td><td style="text-align: right">10</td><td style="text-align: right">10</td><td style="text-align: right">0</td></tr>
+<tr><td>6</td><td>SELECT `User`.`id`, `User`.`firstname`, `User`.`balance`, `User`.`phone_no`, `DrivingLessons`.`student_id`, count(`DrivingLessons`.`student_id`) as no_of_driving_lessons FROM `elevsyst_elevsystem`.`users` AS `User` LEFT JOIN `elevsyst_elevsystem`.`driving_lessons` AS `DrivingLessons` ON (`User`.`id` = `DrivingLessons`.`student_id`)  WHERE CAST(`User`.`balance` AS DECIMAL(10,2)) &lt; 1000 AND CAST(`User`.`balance` AS DECIMAL(10,2)) &gt; 0 AND `User`.`id` = 2506</td><td></td><td style="text-align: right">1</td><td style="text-align: right">1</td><td style="text-align: right">0</td></tr>
+<tr><td>7</td><td>SELECT `Booking`.`id`, `Booking`.`date`, `Booking`.`area_slug`, `Booking`.`user_id`, `BookingTrack`.`track_id`, `BookingTrack`.`time_slot`, `BookingTrack`.`student_id` FROM `elevsyst_elevsystem`.`bookings` AS `Booking` INNER JOIN `elevsyst_elevsystem`.`booking_tracks` AS `BookingTrack` ON (`Booking`.`id` = `BookingTrack`.`booking_id`)  WHERE `student_id` = &#039;2506&#039; AND CONCAT_WS(  &#039; &#039;, `Booking`.`date`, SUBSTRING_INDEX( `BookingTrack`.`time_slot`,  &#039;-&#039;, 1 ) ) &gt;= now()   ORDER BY `Booking`.`date` ASC  LIMIT 1</td><td></td><td style="text-align: right">0</td><td style="text-align: right">0</td><td style="text-align: right">1</td></tr>
+	</tbody></table>
+	</body>
+</html>

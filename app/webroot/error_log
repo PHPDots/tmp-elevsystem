@@ -1,0 +1,121 @@
+[21-Nov-2017 10:53:08 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/elevsyst/public_html/admin/app/Model/Activity.php on line 159
+[21-Nov-2017 11:15:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/elevsyst/public_html/admin/app/Model/Booking.php on line 826
+[21-Nov-2017 11:15:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/elevsyst/public_html/admin/app/Model/Booking.php on line 826
+[21-Nov-2017 11:15:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/elevsyst/public_html/admin/app/Model/Booking.php on line 826
+[23-Nov-2017 11:44:38 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://elevdata.jb-edb.dk/debitor/debitorservice.asmx?op=CreateDebitorYdelse' : Extra content at the end of the document
+ in /home/elevsyst/public_html/admin/app/Controller/BookingsController.php on line 3624
+[23-Nov-2017 11:47:02 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://elevdata.jb-edb.dk/debitor/debitorservice.asmx?op=CreateDebitorYdelse' : Extra content at the end of the document
+ in /home/elevsyst/public_html/admin/app/Controller/BookingsController.php on line 3624
+[23-Nov-2017 12:33:01 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://elevdata.jb-edb.dk/debitor/debitorservice.asmx?op=CreateDebitorYdelse' : Extra content at the end of the document
+ in /home/elevsyst/public_html/admin/app/Controller/BookingsController.php on line 3625
+[30-Nov-2017 10:11:15 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/elevsyst/public_html/admin/app/Controller/BookingsController.php on line 624
+[30-Nov-2017 10:11:15 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/elevsyst/public_html/admin/app/Controller/BookingsController.php on line 624
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  include(/home/elevsyst/beta.elev-system.dk/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/elevsyst/public_html/lib/Cake/Core/App.php on line 547
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  include(/home/elevsyst/beta.elev-system.dk/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/elevsyst/public_html/lib/Cake/Core/App.php on line 547
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  include(): Failed opening '/home/elevsyst/beta.elev-system.dk/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/elevsyst/public_html/lib:.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/elevsyst/public_html/lib/Cake/Core/App.php on line 547
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  set_error_handler() expects the argument (ErrorHandler::handleError) to be a valid callback in /home/elevsyst/public_html/lib/Cake/Core/Configure.php on line 443
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  include(/home/elevsyst/beta.elev-system.dk/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/elevsyst/public_html/lib/Cake/Core/App.php on line 547
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  include(/home/elevsyst/beta.elev-system.dk/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/elevsyst/public_html/lib/Cake/Core/App.php on line 547
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  include(): Failed opening '/home/elevsyst/beta.elev-system.dk/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/elevsyst/public_html/lib:.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/elevsyst/public_html/lib/Cake/Core/App.php on line 547
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  set_exception_handler() expects the argument (ErrorHandler::handleException) to be a valid callback in /home/elevsyst/public_html/lib/Cake/Core/Configure.php on line 446
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  include(/home/elevsyst/beta.elev-system.dk/lib/Cake/Log/CakeLog.php): failed to open stream: No such file or directory in /home/elevsyst/public_html/lib/Cake/Core/App.php on line 547
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  include(/home/elevsyst/beta.elev-system.dk/lib/Cake/Log/CakeLog.php): failed to open stream: No such file or directory in /home/elevsyst/public_html/lib/Cake/Core/App.php on line 547
+[07-Mar-2018 07:15:21 UTC] PHP Warning:  include(): Failed opening '/home/elevsyst/beta.elev-system.dk/lib/Cake/Log/CakeLog.php' for inclusion (include_path='/home/elevsyst/public_html/lib:.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/elevsyst/public_html/lib/Cake/Core/App.php on line 547
+[07-Mar-2018 07:15:21 UTC] PHP Fatal error:  Class 'CakeLog' not found in /home/elevsyst/public_html/app/Config/bootstrap.php on line 98
+[21-Mar-2018 12:51:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/elevsyst/public_html/app/View/Adminbookings/list_bookings.ctp on line 1525
+[21-Mar-2018 12:52:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/elevsyst/public_html/app/View/Adminbookings/list_bookings.ctp on line 1276
+[22-Mar-2018 09:56:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 310
+[22-Mar-2018 12:33:56 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[22-Mar-2018 12:36:14 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[22-Mar-2018 13:36:22 Europe/Copenhagen] PHP Notice:  Undefined index: Error in /home/elevsyst/public_html/lib/Cake/Core/Configure.php on line 102
+[22-Mar-2018 13:36:22 Europe/Copenhagen] PHP Notice:  Undefined index: Exception in /home/elevsyst/public_html/lib/Cake/Core/Configure.php on line 103
+[22-Mar-2018 13:36:22 Europe/Copenhagen] PHP Notice:  Undefined index: cookie in /home/elevsyst/public_html/lib/Cake/Model/Datasource/CakeSession.php on line 491
+[22-Mar-2018 13:36:22 Europe/Copenhagen] PHP Notice:  Undefined index: timeout in /home/elevsyst/public_html/lib/Cake/Model/Datasource/CakeSession.php on line 499
+[22-Mar-2018 13:36:22 Europe/Copenhagen] PHP Warning:  ini_set(): session.name cannot be a numeric or empty '' in /home/elevsyst/public_html/lib/Cake/Model/Datasource/CakeSession.php on line 508
+[22-Mar-2018 13:36:22 Europe/Copenhagen] PHP Notice:  Undefined index: cookie in /home/elevsyst/public_html/lib/Cake/Model/Datasource/CakeSession.php on line 491
+[22-Mar-2018 13:36:22 Europe/Copenhagen] PHP Notice:  Undefined index: timeout in /home/elevsyst/public_html/lib/Cake/Model/Datasource/CakeSession.php on line 499
+[22-Mar-2018 13:36:22 Europe/Copenhagen] PHP Warning:  ini_set(): session.name cannot be a numeric or empty '' in /home/elevsyst/public_html/lib/Cake/Model/Datasource/CakeSession.php on line 508
+[22-Mar-2018 12:36:44 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[22-Mar-2018 12:42:19 UTC] PHP Parse error:  syntax error, unexpected ''status' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 1027
+[22-Mar-2018 12:42:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3233
+[22-Mar-2018 12:43:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 1748
+[22-Mar-2018 12:43:56 UTC] PHP Parse error:  syntax error, unexpected ''status' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 1027
+[22-Mar-2018 16:13:22 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[22-Mar-2018 16:13:26 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[22-Mar-2018 16:13:28 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[22-Mar-2018 16:13:49 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[22-Mar-2018 16:13:54 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[23-Mar-2018 06:53:50 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[23-Mar-2018 06:53:54 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[23-Mar-2018 06:53:55 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[23-Mar-2018 07:09:12 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[23-Mar-2018 13:14:14 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[23-Mar-2018 13:14:24 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'Pris' property in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3880
+[11-Apr-2018 11:26:23 UTC] PHP Fatal error:  Call to undefined function GuzzleHttp\Handler\curl_reset() in /home/elevsyst/public_html/app/Vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 78
+[11-Apr-2018 11:38:16 UTC] PHP Parse error:  syntax error, unexpected ''student_id' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 322
+[11-Apr-2018 11:38:16 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 990
+[12-Apr-2018 11:49:53 UTC] PHP Parse error:  syntax error, unexpected ''t' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/elevsyst/public_html/app/Controller/DrivingLessonsController.php on line 341
+[12-Apr-2018 11:50:43 UTC] PHP Parse error:  syntax error, unexpected ''succ' (T_ENCAPSED_AND_WHITESPACE) in /home/elevsyst/public_html/app/Controller/DrivingLessonsController.php on line 341
+[12-Apr-2018 12:04:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/elevsyst/public_html/app/View/Adminbookings/list_bookings.ctp on line 1532
+[13-Apr-2018 08:54:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 1745
+[13-Apr-2018 08:54:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 2344
+[13-Apr-2018 08:54:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 2891
+[13-Apr-2018 08:55:19 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 994
+[13-Apr-2018 08:55:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 994
+[16-Apr-2018 12:58:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 326
+[16-Apr-2018 12:58:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3603
+[09-May-2018 16:00:58 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file in /home/elevsyst/public_html/app/Controller/AdminbookingsController.php on line 3536
+[03-Dec-2018 17:08:51 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:10:55 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:10:58 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:11:02 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:11:02 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:11:02 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:11:32 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:11:37 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:11:38 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:11:38 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:11:43 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:11:44 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:11:48 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:11:49 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:11:49 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:11:50 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:12:15 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[' in /home2/elevsyst/public_html/app/Vendor/guzzlehttp/psr7/src/functions.php on line 77
+[03-Dec-2018 17:12:35 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:12:52 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:12:55 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:13:04 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:13:07 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:13:17 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:13:28 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:14:03 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:14:05 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:14:52 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:15:49 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:16:25 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:16:31 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:18:03 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:18:06 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:18:19 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:18:25 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:18:32 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:20:42 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:21:42 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:22:31 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:22:51 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:22:57 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:24:27 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:24:29 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:24:37 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:24:46 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:25:35 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:26:17 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:26:18 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:26:18 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:30:20 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:30:25 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[03-Dec-2018 17:30:33 Europe/Copenhagen] PHP Fatal error:  Class 'PDO' not found in /home2/elevsyst/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 209
+[04-Dec-2018 15:18:04 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file in /home2/elevsyst/public_html/app/Model/User.php on line 652
+[05-Dec-2018 15:12:50 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home2/elevsyst/public_html/app/View/AdminUsers/students.ctp on line 118
+[05-Dec-2018 15:12:51 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home2/elevsyst/public_html/app/View/AdminUsers/students.ctp on line 118

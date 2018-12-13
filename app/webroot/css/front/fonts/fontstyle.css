@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'NeoSansProLight';
+    src: url('neosansprolight.eot');
+    src: url('neosansprolight.eot') format('embedded-opentype'),
+         url('neosansprolight.woff2') format('woff2'),
+         url('neosansprolight.woff') format('woff'),
+         url('neosansprolight.ttf') format('truetype'),
+         url('neosansprolight.svg#NeoSansProLight') format('svg');
+}
+
+@font-face {
+  font-family: 'NeoSans-Bold';
+  src: url('NeoSans-Bold.eot?#iefix') format('embedded-opentype'),  url('NeoSans-Bold.woff') format('woff'), url('NeoSans-Bold.ttf')  format('truetype'), url('NeoSans-Bold.svg#NeoSans-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeoSansPro-Medium';
+  src: url('NeoSansPro-Medium.eot?#iefix') format('embedded-opentype'),  url('NeoSansPro-Medium.woff') format('woff'), url('NeoSansPro-Medium.ttf')  format('truetype'), url('NeoSansPro-Medium.svg#NeoSansPro-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

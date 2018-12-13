@@ -1,0 +1,147 @@
+.ibutton-container {
+	position: relative;
+	height: 28px;
+	cursor: pointer;
+	overflow: hidden;
+	top: 4px;
+	display: inline-block;
+	margin-right: 14px;
+	/* set max width to that of sprite */
+	max-width: 400px;
+	/* prevent text selection */
+	-khtml-user-select: none;
+	-o-user-select: none;
+	-moz-user-select: none;
+	-moz-user-focus: ignore; 
+	-moz-user-input: disabled;
+	/* set default width based on ON/OFF labels */
+	width: 64px;
+	-webkit-border-radius: 2px;
+}
+
+.ibutton-container input,
+.ibutton-container .checker,
+.ibutton-container .radio {
+  position: absolute;
+	top: 0;
+	left: 0;
+
+	/* hide the element */
+	filter:alpha(opacity=0);
+	-moz-opacity: 0.0; 
+	opacity: 0.0;
+
+	/* allow checking of input if visible */
+	-moz-user-input: enabled  !important;
+}
+
+.ibutton-handle {
+  display: block;
+  height: 28px;
+  cursor: inherit;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  background: transparent url(../img/ibutton/ibutton.png) no-repeat scroll 0 0px;
+  z-index: 3;
+  padding-left: 3px;
+  /* set default width based on ON/OFF labels */
+  width: 18px;
+}
+
+.ibutton-handle-right {
+  height: 100%;
+  width: 100%;
+  padding-right: 3px;
+  background: transparent url(../img/ibutton/ibutton.png) no-repeat scroll 100% 0px;
+  z-index: 3; 
+}
+
+.ibutton-handle-middle {
+  height: 100%;
+  width: 100%;
+  background: transparent url(../img/ibutton/ibutton.png) no-repeat scroll 50% 0px;
+  z-index: 3; 
+}
+
+div.ibutton-label-on, div.ibutton-label-off {
+  white-space: nowrap;
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 17px;
+  font-weight: bold;
+  font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  cursor: inherit;
+  display: block;
+  height: 28px;
+  position: absolute;
+  width: auto;
+  top: 0;
+  overflow: hidden; 
+  background: transparent url(../img/ibutton/ibutton.png) no-repeat scroll 0 -28px;
+}
+
+div.ibutton-label-on {
+  color: #fff;
+  text-shadow: 0 1px 0px rgba(0, 0, 0, 0.4);
+  left: 0;
+  z-index: 1; 
+}
+
+div.ibutton-label-on span {
+  padding-left: 7px;
+  line-height: 29px;
+  font-weight: bold;
+}
+
+div.ibutton-label-off {
+  color: #fff;
+  text-shadow: 0 1px 0px rgba(0, 0, 0, 0.4);
+  background-position: 100% -28px;
+  text-align: right;
+  right: 0;
+	/* the off label needs to near the left edge (ideally just 5px away) 
+	 * it just needs to be close enough that it won't show under the handle if dragged to the left  
+	 */
+  width: 95%;
+}
+
+div.ibutton-label-off span {
+  padding-right: 7px; 
+  line-height: 29px;
+  font-weight: bold;
+}
+
+/* create an outline when button gets focus via keyboard */
+.ibutton-container label {
+	cursor: inherit;
+	padding: 1px 3px;
+	font-size: 1em !important;
+}
+
+.ibutton-focus label {
+	/* we must use border, since outline doesn't work in IE */
+	border: 1px dotted #666 !important;
+	padding: 0 2px;
+}
+
+.ibutton-focus div.ibutton-label-on span label {
+	/* use white for more contrast */
+	border-color: #fff !important;
+}
+
+/* add padding to right/left so that text gets clipped before absolute edge */
+.ibutton-padding-left, .ibutton-padding-right {
+	position: absolute; 
+	top: 4px;
+	z-index: 2; 
+	width: 3px;
+	height: 20px;
+}
+
+.ibutton-disabled {
+  opacity: 0.6;
+  cursor: default;
+}

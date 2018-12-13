@@ -1,0 +1,29 @@
+@media(max-width:768px){
+
+    .side-bar {
+        height : auto !important;
+    }
+    .menu_ct {
+        padding-top: 20px; 
+    }
+    .side-bar .fa{
+        padding:17px 10px 17px 26px;
+    }    
+    .sidebar-item li a {
+        border: none;
+    }
+    .plad-block {
+        padding-left: 0;
+    }
+    .menu_ct{ 
+    padding:0px 30px 30px 30px;
+}
+}
+@media(max-width:992px){
+    .sidebar-item li a {
+        font-size:15px;
+    }
+    .grey-block h4{
+        line-height:30px;
+    }
+}

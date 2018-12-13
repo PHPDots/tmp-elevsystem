@@ -1,0 +1,124 @@
+/* the norm */
+#gritter-notice-wrapper {
+	position:absolute;
+	top:77px;
+	right:15px;
+	width:290px;
+	z-index:9999;
+}
+
+#gritter-notice-wrapper.top-left {
+    left: 20px;
+    right: auto;
+}
+
+#gritter-notice-wrapper.bottom-right {
+    top: auto;
+    left: auto;
+    bottom: 20px;
+    right: 20px;
+}
+
+#gritter-notice-wrapper.bottom-left {
+    top: auto;
+    right: auto;
+    bottom: 20px;
+    left: 20px;
+}
+
+.gritter-item-wrapper {
+	position:relative;
+	margin:0 0 15px 0;
+	-webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.28);
+	-moz-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.28);
+	box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.28);
+}
+
+.gritter-top {
+	display: none;
+}
+
+.gritter-bottom {
+	display: none;
+}
+
+.gritter-item {
+	display:block;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	border: 1px solid #d2d2d2;
+	background: #f8f8f8;
+    background: -moz-linear-gradient(top, #f8f8f8 0%, #eaeaea 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#eaeaea));
+    background: -webkit-linear-gradient(top, #f8f8f8 0%,#eaeaea 100%);
+    background: -o-linear-gradient(top, #f8f8f8 0%,#eaeaea 100%);
+    background: -ms-linear-gradient(top, #f8f8f8 0%,#eaeaea 100%);
+    background: linear-gradient(to bottom, #f8f8f8 0%,#eaeaea 100%);
+    filter: -webkit-linear-gradient(top, #f8f8f8 0%,#eaeaea 100%);
+	color:#eee;
+	padding: 8px 12px 10px;
+	font-size: 11px;
+	font-family:verdana;
+}
+
+.gritter-item p {
+	padding:0;
+	margin:0;
+	word-wrap:break-word;
+	color: #636363;
+	line-height: 16px;
+}
+
+.gritter-close {
+	display:none;
+	position:absolute;
+	top:16px;
+	right:16px;
+	background:url(../img/close-gritter.png) no-repeat left top;
+	cursor:pointer;
+	width:7px;
+	height:7px;
+}
+
+.gritter-title {
+	font-size:11px;
+	font-weight:bold;
+	padding:0 0 2px 0;
+	color: #636363;
+	display:block;
+}
+
+.gritter-image {
+	width:48px;
+	height:48px;
+	float:left;
+	margin-top: 5px;
+	margin-left: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.gritter-with-image,
+.gritter-without-image {
+	padding:0;
+}
+
+.gritter-with-image {
+	width:200px;
+	float:right;
+}
+
+/* for the light (white) version of the gritter notice */
+.gritter-light .gritter-item,
+.gritter-light .gritter-bottom,
+.gritter-light .gritter-top,
+.gritter-light .gritter-close {
+    background-image: url(../images/gritter-light.png);
+    color: #222;
+}
+
+.gritter-light .gritter-title {
+    text-shadow: none;
+}

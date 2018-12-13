@@ -1,0 +1,90 @@
+.innerNavigation > ul {
+  border-bottom: 1px solid #434343;
+}
+
+.innerNavigation > ul > li > a {
+  border-top: 1px solid #434343 !important;
+}
+
+.mainNavigation .profile .profile-options {
+  width: 278px;
+  border-left: 1px solid #434343;
+}
+
+.mainNavigation .profile .profile-options .info {
+  border-bottom: 1px solid #434343;
+  padding-bottom: 8px;
+}
+
+.mainNavigation .profile .profile-options .search {
+  margin-top: 0px;
+}
+
+.innerNavigation > ul > li > ul > li > a {
+  border-top: 1px solid #434343;
+}
+
+.innerNavigation > ul > li > ul > li:first-child > a {
+  border-top: none;
+}
+
+.innerNavigation > ul > li > ul > li > ul > li > a {
+  border-top: 1px solid #434343;
+}
+
+.top-bar > ul > li > a {
+  white-space: nowrap;
+}
+
+.top-bar ul.breadcrumb li a,
+.top-bar ul.breadcrumb li {
+  white-space: nowrap;
+}
+
+input[type="file"] { 
+  background-color: white; 
+  border: 1px solid #DADADA; 
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.02), 0 1px 0 white; 
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.02), 0 1px 0 white; 
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.02), 0 1px 0 white; 
+  padding: 8px 7px; font-size: 11px; color: #5F5F5F; 
+  box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  -ms-box-sizing: border-box; 
+  height: 30px;
+}
+
+select, 
+input[type="text"], 
+input[type="password"], 
+input[type="datetime"], 
+input[type="datetime-local"], 
+input[type="date"], 
+input[type="month"], 
+input[type="time"], 
+input[type="week"], 
+input[type="number"], 
+input[type="email"], 
+input[type="url"], 
+input[type="search"], 
+input[type="tel"], 
+input[type="color"], 
+.uneditable-input  { 
+  line-height: 30px; 
+  height: 30px; 
+  padding-top:  0 !important;
+  padding-bottom:  0 !important;
+}
+
+.ui-spinner > input[type="text"] { line-height: 30px; }
+div.selector span { line-height: 26px; }
+select { height: auto; line-height: auto; }
+
+.user-configuration {
+  border-left: 1px solid #434343;
+}
+
+.email-actions ul > li > a {
+  white-space: nowrap;
+}

@@ -1,0 +1,189 @@
+  @media print {
+        .shouldnotPrintToPDF, .pdflink { 
+                        display         : none;
+                    }
+          }
+    .pdflink{
+        display           : block; 
+    }
+    html {
+        margin            :0px;
+        padding           :0px;      
+    }
+    body{
+        position          : relative;
+        margin            : 100px 20px 50px 20px;
+        padding           : 0px;  
+    }
+
+    @page {
+          margin          : 0px;
+          width           : 800px;
+    }
+    table tr td.form-title{
+        color             : #92A367;
+        font-weight       : 800;
+        font-family       : Verdana;
+        font-size         : 16px;
+        margin            : 0px 8px;
+        border            : 0;
+        page-break-outside:avoid;
+        width             : 30%;
+    }
+    table tr td.viewpdf{
+        width             : 30%;
+        text-align        : right;
+    }
+    div {
+        font-size         :12px;      
+        line-height       :1.5em;
+        font-family       :Verdana, Arial;
+    }
+
+    div.nobreak {
+        page-break-outside:avoid;
+        background        : #FFF;
+        border            : 1px solid #CCC;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        border-radius     : 2px;
+        -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.14);
+        -moz-box-shadow   : 0 0 3px 0 rgba(0, 0, 0, 0.14);
+        box-shadow        : 0 0 3px 0 rgba(0, 0, 0, 0.14);
+        /*width: 900px;*/
+    }
+    div.nobreak.form-header {
+        page-break-outside:avoid;
+        background        : none;
+        border            : 0;
+        -webkit-border-radius: 0px;
+        -moz-border-radius: 0px;
+        border-radius: 0px;
+        margin-bottom: 0px;
+        -webkit-box-shadow: none;
+        -moz-box-shadow   : none;
+        box-shadow        : none;
+        /*width: 900px;*/
+    }
+
+    div.outside {
+        font-family       :Verdana, Arial;
+        padding           : 20px 15px;
+        border-bottom     : 1px solid #D2D2D2;
+        -webkit-box-shadow: inset 0 1px 0 #F8F8F8;
+        -moz-box-shadow   : inset 0 1px 0 #f8f8f8;
+        box-shadow        : inset 0 1px 0 #F8F8F8;
+        background        : #f8f8f8;
+
+    }
+    table.outside {
+        font-family       : DejaVu Sans;
+        padding           : 0px 15px 20px 15px;
+        width             : 100%;
+        font-size         : 12px;
+        font-weight       : 100; 
+    }
+    table{
+        font-family       : Tahoma;
+        font-size         : 14px;
+        width             : 100%;
+    }
+    table tr td.col3{
+        width             : 33%;
+        vertical-align    : top;
+    }
+    table tr td.col-title{
+        color             : #333 ;
+        font-weight       : 800;
+        font-size         : 16px;
+        font-family       : Tahoma;
+        text-align        : center;
+        padding           : 7px 0px;
+    }
+    table tr td.col-title.ara-lang{
+        font-family       : DejaVu Sans; 
+        font-weight       : 100; 
+        font-size         : 10px;
+    }
+    table tr td.col3 .inside {
+        width             : 100%;
+    }
+    table tr td.col2{
+        width             : 45%;
+        vertical-align    : top;
+    }
+    table tr td.col3 .inside {
+        width             : 100%;
+    }
+    table.outside tr td.lbl-name{
+        width             : 56%;
+    }
+    table.outside tr td.lbl-val{
+        width             : 40%;
+    }
+    table.outside tr td.col{
+        width             : 1%;
+    }
+    div.widget-header,table .widget-header {
+        height            : 40px;
+        display           : block;
+        background        : #E0E6D0;
+        border            : 1px solid #CCC;
+        padding           : 0 1px;
+        margin-left       : -1px;
+        margin-top        : -1px;
+        margin-right      : -1px;
+        -webkit-border-radius: 2px 2px 0 0;
+        -moz-border-radius: 2px;
+        border-radius     : 2px 2px 0 0;
+        -webkit-box-shadow: inset 0 1px 0 #F8F8F8;
+        -moz-box-shadow   : inset 0 1px 0 #f8f8f8;
+        box-shadow        : inset 0 1px 0 #F8F8F8;
+    }
+    table td.ara-lang{
+        text-align        : right !important;
+        padding           : 2px 0px 0px 20px;
+        font-family       : DejaVu Sans;
+        font-weight       : 100;
+        font-size         : 12.5px;
+    }
+    table td li.ara-lang{
+        text-align        : right;
+        padding           : 0px 28px 0px 10px;
+        font-family       : DejaVu Sans;
+        font-weight       : 100;
+        font-size         : 12.5px;
+    }  
+    table td.eng-lang{
+        padding           : 5px 10px 10px 10px;
+        margin            : 5px 0px;
+    }
+    table td .input-text-field{
+       width              : 25%;
+       padding            : 5px 10px;
+       border             : solid 1px #000;
+    }
+    table td.details,table td.details ol li{
+        padding-bottom    : 10px;
+    }
+    table td.details ol{
+        margin            : 0px;
+        padding           : 0px 0px 0px 15px;
+    }
+    div.widget-header h5{
+        margin-top        : 0;
+        line-height       : 40px;
+        margin-left       : 15px;
+        float             : left;
+        color             : #333 ;
+        font-weight       : 500;
+        font-size         : 16px;
+        font-family       : Tahoma;
+        width             : 40%;
+    }
+    div.widget-header h5.reference {
+        float             : right;
+        padding-right     : 20px;
+        width             : 30%;
+        text-align        : right;
+    }

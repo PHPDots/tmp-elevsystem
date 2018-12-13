@@ -1,0 +1,35 @@
+ol.sortable, ol.sortable ol {    
+    list-style-type     : none;
+}
+ol#menuItemsList li div.panel{
+    margin: 20px 10px 0px;
+    border: 1px solid #999;
+    border-radius: 0px;
+}
+.rightMenuItemEdit{
+    height: 30px;
+}
+ol#menuItemsList li div.panel .panel-body{
+    margin: 15px;
+} 
+.menu-slide{
+    display: none;
+}
+ol#menuItemsList li div.panel .panel-heading.menu-widget-header{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    cursor: move;
+}
+ol#menuItemsList li div.panel .panel-heading {    
+    background: #dedede;
+    color: #555555;
+    font-weight: 100;
+    text-transform: none;
+    border-bottom: 1px solid #999;
+}
+.alert-message{
+    margin-top:10px;
+}
+.alert-message .alert.alert-success{
+    border-color: #3c763d;
+}

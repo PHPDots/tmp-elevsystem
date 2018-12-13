@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Skeleton Email Meta Template
+    
+    @package Lisbeth
+    @subpackage app.LisabethData.Email
+-->
+<metas>
+    <meta>
+        <name>Teacher</name>
+        <key>teacher</key>
+        <class>DrivingLesson</class>
+        <property>teacher</property>
+        <hint>Name of the Teacher</hint>
+    </meta>
+    <meta>
+        <name>Type</name>
+        <key>type</key>
+        <class>DrivingLesson</class>
+        <property>type</property>
+        <hint>Type of Driving Lesson</hint>
+    </meta>
+    <meta>
+        <name>Start Time</name>
+        <key>starttime</key>
+        <class>DrivingLesson</class>
+        <property>starttime</property>
+        <hint>Start Time of Driving Lesson</hint>
+    </meta>
+    <meta>
+        <name>Lesson Time</name>
+        <key>lessontime</key>
+        <class>DrivingLesson</class>
+        <property>lessontime</property>
+        <hint>Time duration of Driving Lesson</hint>
+    </meta>
+    <meta>
+        <name>Status</name>
+        <key>status</key>
+        <class>DrivingLesson</class>
+        <property>status</property>
+        <hint>Status of Driving Lesson</hint>
+    </meta>
+</metas>

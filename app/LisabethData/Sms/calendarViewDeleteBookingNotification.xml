@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Skeleton Email Meta Template
+    
+    @package OSS
+    @subpackage app.OssData.Email
+-->
+<metas>   
+    <meta>
+        <name>First Name</name>
+        <key>firstname</key>
+        <class>User</class>
+        <property>firstname</property>
+    </meta>
+    <meta>
+        <name>Last Name</name>
+        <key>lastname</key>
+        <class>User</class>
+        <property>lastname</property>
+    </meta>
+     <meta>
+        <name>Booked By</name>
+        <key>bookedby</key>
+        <class>User</class>
+        <property>bookedby</property>
+    </meta>
+    <meta>
+        <name>Date</name>
+        <key>date_time</key>
+        <class>User</class>
+        <property>date</property>
+    </meta>
+    <meta>
+        <name>Type</name>
+        <key>type</key>
+        <class>User</class>
+        <property>type</property>
+    </meta>
+</metas>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Skeleton Email Meta Template
+    
+    @package OSS
+    @subpackage app.OssData.Email
+-->
+<metas>
+    <meta>
+        <name>First Name</name>
+        <key>firstname</key>
+        <class>User</class>
+        <property>firstname</property>
+    </meta>
+    <meta>
+        <name>Amount</name>
+        <key>amount</key>
+        <class>User</class>
+        <property>amount</property>
+    </meta>
+</metas>

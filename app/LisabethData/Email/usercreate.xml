@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Skeleton Email Meta Template
+    
+    @package Lisbeth
+    @subpackage app.LisabethData.Email
+-->
+<metas>
+    <meta>
+        <name>User Name</name>
+        <key>username</key>
+        <class>User</class>
+        <property>username</property>
+        <hint>Username of the User</hint>
+    </meta>
+    <meta>
+        <name>Password</name>
+        <key>password</key>
+        <class>User</class>
+        <property>password</property>
+        <hint>Password of the User</hint>
+    </meta>
+    <meta>
+        <name>First Name</name>
+        <key>firstname</key>
+        <class>User</class>
+        <property>firstname</property>
+        <hint>Firstname of the User</hint>
+    </meta>
+    <meta>
+        <name>Last Name</name>
+        <key>lastname</key>
+        <class>User</class>
+        <property>lastname</property>
+        <hint>Lastname of the User</hint>
+    </meta>
+    <meta>
+        <name>Email Id</name>
+        <key>emailid</key>
+        <class>User</class>
+        <property>emailid</property>
+        <hint>Emailaddress of the User</hint>
+    </meta>    
+</metas>

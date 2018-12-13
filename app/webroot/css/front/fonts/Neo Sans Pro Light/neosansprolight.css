@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'NeoSansProLight';
+    src: url('neosansprolight.eot');
+    src: url('neosansprolight.eot') format('embedded-opentype'),
+         url('neosansprolight.woff2') format('woff2'),
+         url('neosansprolight.woff') format('woff'),
+         url('neosansprolight.ttf') format('truetype'),
+         url('neosansprolight.svg#NeoSansProLight') format('svg');
+}

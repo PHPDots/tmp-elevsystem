@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    
+    List of the all the Email Templates Meta Files and Mapping of the Email Template
+    
+    @package Lisbeth
+    @subpackage app.LisabethData.Email
+    
+-->
+
+<config>
+    
+<templates>
+    <template>
+        <name>User Create</name>
+        <key>usercreate</key>
+    </template>
+    <template>
+        <name>Add Booking</name>
+        <key>addbooking</key>
+    </template>
+    <template>
+        <name>Student Booking Template</name>
+        <key>studentTemplate</key>
+    </template>
+    <template>
+        <name>Student Booking Delete Template</name>
+        <key>studentDeleteTemplate</key>
+    </template>
+    <template>
+        <name>Teacher Booking Template</name>
+        <key>teacherTemplate</key>
+    </template>
+    <template>
+        <name>Teacher Booking Delete Template</name>
+        <key>teacherDeleteTemplate</key>
+    </template>
+    <template>
+        <name>Booked By Other Booking Template</name>
+        <key>bookedByTemplate</key>
+    </template>
+    <template>
+        <name>Booked By Other Booking Delete Template</name>
+        <key>bookedByDeleteTemplate</key>
+    </template>
+    <template>
+        <name>Booking Details Reminder</name>
+        <key>bookingReminder</key>
+    </template>
+    <template>
+        <name>Student Driving Lesson</name>
+        <key>studentDrivingLessonTemplate</key>
+    </template>
+    <template>
+        <name>Teacher Driving Lesson</name>
+        <key>teacherDrivingLessonTemplate</key>
+    </template>
+    <template>
+        <name>Update Student Driving Lesson</name>
+        <key>updateStudentDrivingLessonTemplate</key>
+    </template>
+    <template>
+        <name>Update Teacher Driving Lesson</name>
+        <key>updateTeacherDrivingLessonTemplate</key>
+    </template>
+    <template>
+        <name>Delete Student Driving Lesson</name>
+        <key>deleteStudentDrivingLessonTemplate</key>
+    </template>
+    <template>
+        <name>Delete Teacher Driving Lesson</name>
+        <key>deleteTeacherDrivingLessonTemplate</key>
+    </template>
+    <template>
+        <name>Reset Password Confirmation</name>
+        <key>resetpasswordconfirmation</key>
+    </template>
+    <template>
+        <name>Forgot Password</name>
+        <key>forgotpassword</key>
+    </template>
+    <template>
+        <name>Negative Balance Notification</name>
+        <key>negativeBalanceNotification</key>
+    </template>
+    <template>
+        <name>Driving Test Student Passed Mail to Admin</name>
+        <key>drivingTestStudentPassedAdmin</key>
+    </template>
+</templates>
+<mailtypes>
+    <mailtype>
+        <name>SMTP</name>
+        <key>smtp</key>
+    </mailtype>
+    <mailtype>
+        <name>Php Mail</name>
+        <key>php</key>
+    </mailtype>
+</mailtypes>
+</config>

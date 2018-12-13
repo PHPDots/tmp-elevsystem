@@ -1,0 +1,3423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lisabeth\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-26 12:38+0530\n"
+"PO-Revision-Date: 2016-02-26 12:41+0530\n"
+"Last-Translator: Supriya Sharma <supriya@blackid.com>\n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-SearchPath-0: /var/www/lisabeth/app\n"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:123
+msgid "Book Lesson"
+msgstr "Book lektion"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:135
+msgid "Lesson Details"
+msgstr "Lektion detajler"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:140
+#: /var/www/lisabeth/app/View/DrivingLessons/view.ctp:12
+msgid "Booking Type"
+msgstr "Booking type"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:158
+msgid "Would you like to search in all students"
+msgstr "Søg i alle elever"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:169
+msgid "Student"
+msgstr "Elev"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:177
+msgid "Enter Student"
+msgstr "Indtast elev"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:192
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:24
+msgid "Start Time"
+msgstr "Start dato"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:201
+msgid "Select Start time"
+msgstr "Vælg start tid"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:218
+msgid "Select Hours"
+msgstr "Vælg timer"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:233
+msgid "Select Minutes"
+msgstr "Vælg minutter"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:245
+#: /var/www/lisabeth/app/View/DrivingLessons/view.ctp:32
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:25
+msgid "Lesson Time"
+msgstr "Lektions tid"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:264
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:272
+msgid "On behalf of"
+msgstr "På vejne af"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:289
+msgid "Approve Driving Lesson"
+msgstr "Godkend køretime"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:296
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:26
+#: /var/www/lisabeth/app/View/Tracks/add.ctp:48
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:18
+msgid "Status"
+msgstr "Status"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:317
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:325
+#: /var/www/lisabeth/app/View/DrivingLessons/view.ctp:37
+msgid "Module"
+msgstr "Modul"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:333
+#: /var/www/lisabeth/app/View/DrivingLessons/add.ctp:341
+#: /var/www/lisabeth/app/View/DrivingLessons/view.ctp:41
+msgid "Comments"
+msgstr "Kommentar"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/view.ctp:7
+msgid "Driving Lesson Details"
+msgstr "Køretime detaljer"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/view.ctp:18
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:22
+msgid "Student Name"
+msgstr "Student Navn"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/view.ctp:22
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:21
+msgid "Teacher Name"
+msgstr "Lærer"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/view.ctp:28
+msgid "Lesson Start Time"
+msgstr "Lektion start tid"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:9
+msgid "Driving Lessons"
+msgstr "Køretimer"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:11
+msgid "Add Driving Lesson"
+msgstr "Tilføj køretime"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:20
+#: /var/www/lisabeth/app/View/Roles/index.ctp:15
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:15
+msgid "No."
+msgstr "Nr."
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:23
+msgid "Type"
+msgstr "Type"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:27
+#: /var/www/lisabeth/app/View/Roles/index.ctp:18
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:19
+msgid "Actions"
+msgstr "Handlinger"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:53
+msgid "View"
+msgstr "Se"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:59
+#: /var/www/lisabeth/app/View/Roles/index.ctp:37
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:41
+msgid "Edit"
+msgstr "Rediger"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:66
+#: /var/www/lisabeth/app/View/Roles/index.ctp:43
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:47
+msgid "Delete"
+msgstr "Slet"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:78
+msgid "No Driving Lessons are added"
+msgstr "Ingen køretimer tilføjet"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:90
+#: /var/www/lisabeth/app/View/Roles/index.ctp:70
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:74
+msgid "First"
+msgstr "Første"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:95
+#: /var/www/lisabeth/app/View/Roles/index.ctp:75
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:79
+msgid "Previous"
+msgstr "Forrige"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:101
+#: /var/www/lisabeth/app/View/Roles/index.ctp:81
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:85
+msgid "Next"
+msgstr "Næste"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/index.ctp:106
+#: /var/www/lisabeth/app/View/Roles/index.ctp:86
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:90
+msgid "Last"
+msgstr "Sidste"
+
+#: /var/www/lisabeth/app/View/DrivingLessons/Ajax/confirmation.ctp:40
+msgid "The student may not continue until first aid certificate and medical certificate is handed over."
+msgstr "Eleven må først fortsætte når førstehjælpsbevis og lægeerklæring er indhentet"
+
+#: /var/www/lisabeth/app/View/Roles/add.ctp:3
+msgid "Edit Role"
+msgstr "Rediger Rolle"
+
+#: /var/www/lisabeth/app/View/Roles/add.ctp:3
+#: /var/www/lisabeth/app/View/Roles/index.ctp:6
+msgid "Add Role"
+msgstr "Tilføj rolle"
+
+#: /var/www/lisabeth/app/View/Roles/add.ctp:16
+msgid "Role Details"
+msgstr "Rolle detaljer"
+
+#: /var/www/lisabeth/app/View/Roles/add.ctp:21
+msgid "Role Name"
+msgstr "Rolle navn"
+
+#: /var/www/lisabeth/app/View/Roles/add.ctp:28
+#: /var/www/lisabeth/app/View/Roles/index.ctp:16
+#: /var/www/lisabeth/app/View/Users/add.ctp:254
+#: /var/www/lisabeth/app/View/Users/view.ctp:39
+msgid "Role"
+msgstr "Rolle"
+
+#: /var/www/lisabeth/app/View/Roles/add.ctp:35
+msgid "Role Slug"
+msgstr "Rolle slug"
+
+#: /var/www/lisabeth/app/View/Roles/add.ctp:42
+#: /var/www/lisabeth/app/View/Roles/index.ctp:17
+msgid "Slug"
+msgstr "Slug"
+
+#: /var/www/lisabeth/app/View/Roles/index.ctp:4
+msgid "Roles"
+msgstr "Roller"
+
+#: /var/www/lisabeth/app/View/Roles/index.ctp:58
+msgid "No Roles are added"
+msgstr "Ingen roller tilføjet"
+
+#: /var/www/lisabeth/app/View/Tracks/add.ctp:3
+msgid "Edit Track"
+msgstr "Rediger bane"
+
+#: /var/www/lisabeth/app/View/Tracks/add.ctp:3
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:6
+msgid "Add Track"
+msgstr "Tilføj bane"
+
+#: /var/www/lisabeth/app/View/Tracks/add.ctp:16
+msgid "Track Details"
+msgstr "Bane detaljer"
+
+#: /var/www/lisabeth/app/View/Tracks/add.ctp:21
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:16
+msgid "Track Name"
+msgstr "Bane navn"
+
+#: /var/www/lisabeth/app/View/Tracks/add.ctp:28
+msgid "Track"
+msgstr "Bane"
+
+#: /var/www/lisabeth/app/View/Tracks/add.ctp:35
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:17
+msgid "Area"
+msgstr "Område"
+
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:4
+msgid "Tracks"
+msgstr "Baner"
+
+#: /var/www/lisabeth/app/View/Tracks/index.ctp:62
+msgid "No Tracks are added"
+msgstr "Ingen baner er tilføjet"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:3
+msgid "Enter Your Details"
+msgstr "Indtast dine detajler"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:12
+msgid "Enter your First Name here..."
+msgstr "Indtast dit fornavn her"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:20
+msgid "Enter your Last Name here..."
+msgstr "Indtast dit efternavn her"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:28
+msgid "Enter your User Name here..."
+msgstr "Indtast dit brugernavn her"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:36
+msgid "Enter your Password here..."
+msgstr "Indtast dit password her"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:44
+msgid "Enter your Confirm Password here..."
+msgstr "Bekræft dit password her"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:52
+msgid "Enter your Email Id here..."
+msgstr "Indtast din e-mail her"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:60
+msgid "Enter Your Date of Birth..."
+msgstr "Indtast din fødselsdato"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:68
+msgid "Enter Your Phone Number..."
+msgstr "Indtast dit telefonnummer"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:73
+msgid "Select Role"
+msgstr "Vælg rolle"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:76
+msgid "Submit"
+msgstr "Send"
+
+#: /var/www/lisabeth/app/View/Users/signup.ctp:82
+msgid "&copy; Lisabeth"
+msgstr "&copy; Lisbeth"
+
+#: /var/www/lisabeth/app/View/Users/reset_password.ctp:19
+msgid "Enter your password here..."
+msgstr "Indtast dit password her"
+
+#: /var/www/lisabeth/app/View/Users/reset_password.ctp:27
+msgid "Enter your Confirm password here..."
+msgstr "Bekræft dit password her"
+
+#: /var/www/lisabeth/app/View/Users/reset_password.ctp:33
+msgid "Remember me"
+msgstr "Husk mig"
+
+#: /var/www/lisabeth/app/View/Users/reset_password.ctp:36
+#: /var/www/lisabeth/app/View/Users/add.ctp:447
+msgid "Reset Password"
+msgstr "Nulstil password"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:133
+msgid "Edit Profile"
+msgstr "Rediger profil"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:133
+msgid "Add User"
+msgstr "Tilføj bruger"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:146
+msgid "User account"
+msgstr "Bruger konto"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:151
+msgid "Profile Picture"
+msgstr "Profil billede"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:171
+msgid "Upload image"
+msgstr "Upload billede"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:179
+#: /var/www/lisabeth/app/View/Users/add.ctp:188
+msgid "First Name"
+msgstr "Fornavn"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:196
+#: /var/www/lisabeth/app/View/Users/add.ctp:205
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:217
+#: /var/www/lisabeth/app/View/Users/add.ctp:226
+msgid "Email Address"
+msgstr "E-mail"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:234
+#: /var/www/lisabeth/app/View/Users/add.ctp:243
+#: /var/www/lisabeth/app/View/Users/view.ctp:35
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:292
+msgid "Select Teacher"
+msgstr "Vælg Lærer"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:311
+#: /var/www/lisabeth/app/View/Users/add.ctp:319
+msgid "Select Company"
+msgstr "Vælg Company"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:336
+#: /var/www/lisabeth/app/View/Users/view.ctp:44
+msgid "User's Nick Name"
+msgstr "Brugerens kaldenavn"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:345
+msgid "Nick Name For User"
+msgstr "Kaldenavn til Bruger"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:359
+#: /var/www/lisabeth/app/View/Users/add.ctp:368
+#: /var/www/lisabeth/app/View/Users/view.ctp:73
+msgid "Standard City"
+msgstr "Standard By"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:381
+#: /var/www/lisabeth/app/View/Users/add.ctp:389
+#: /var/www/lisabeth/app/View/Users/add.ctp:418
+#: /var/www/lisabeth/app/View/Users/add.ctp:426
+#: /var/www/lisabeth/app/View/Users/view.ctp:27
+msgid "Username"
+msgstr "Brugernavn"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:398
+#: /var/www/lisabeth/app/View/Users/add.ctp:459
+msgid "Password"
+msgstr "Password"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:406
+#: /var/www/lisabeth/app/View/Users/add.ctp:467
+#: /var/www/lisabeth/app/View/Users/add.ctp:482
+msgid "Enter password"
+msgstr "Indtast password"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:438
+msgid "Do you want to reset your password?"
+msgstr "Vil du nulstille dit password?"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:474
+msgid "Confirm Password"
+msgstr "Bekræft password"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:493
+msgid "User Status"
+msgstr "Bruger Status"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:509
+#: /var/www/lisabeth/app/View/Users/add.ctp:517
+msgid "Suspend"
+msgstr "Bloker"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:510
+#: /var/www/lisabeth/app/View/Users/add.ctp:514
+#: /var/www/lisabeth/app/View/Users/add.ctp:518
+msgid "Deactive"
+msgstr "Deaktiver"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:513
+msgid "Active"
+msgstr "Aktiver"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:521
+msgid "Still In Progess"
+msgstr "Stadig i progess"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:522
+msgid "Ended"
+msgstr "Sluttede"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:543
+msgid "Update"
+msgstr "Tilføj"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:543
+msgid "Add"
+msgstr "Tilføj"
+
+#: /var/www/lisabeth/app/View/Users/add.ctp:551
+msgid "Cancel"
+msgstr "Fortryd"
+
+#: /var/www/lisabeth/app/View/Users/view.ctp:3
+msgid "User Details"
+msgstr "Bruger detaljer"
+
+#: /var/www/lisabeth/app/View/Users/view.ctp:21
+msgid "User Details "
+msgstr "Bruger detaljer"
+
+#: /var/www/lisabeth/app/View/Users/view.ctp:23
+msgid "Name"
+msgstr "Navn"
+
+#: /var/www/lisabeth/app/View/Users/view.ctp:31
+msgid "Email id"
+msgstr "E-mail"
+
+#: /var/www/lisabeth/app/View/Users/view.ctp:50
+msgid "Company"
+msgstr "Firma"
+
+#: /var/www/lisabeth/app/View/Users/view.ctp:54
+msgid "Company's Nick Name"
+msgstr "Selskabets kaldenavn"
+
+#: /var/www/lisabeth/app/View/Users/view.ctp:62
+msgid "Student Number"
+msgstr "studienummer"
+
+#: /var/www/lisabeth/app/View/Users/view.ctp:66
+msgid "Teacher"
+msgstr "lærer"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:64
+msgid "Search By Id / Name / Email / Phone"
+msgstr "Søg på ID / Navn / E-mail / Telefon"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:84
+msgid "Search result for "
+msgstr "Søgeresultat efter"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:92
+msgid "Students"
+msgstr "Elev"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:94
+msgid "Add Student"
+msgstr "Tilføj Student"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:105
+#: /var/www/lisabeth/app/View/Users/index.ctp:48
+msgid "Email Id"
+msgstr "E-mail"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:106
+msgid "Contact No"
+msgstr "Kontakt nr"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:151
+#: /var/www/lisabeth/app/View/Users/index.ctp:103
+msgid "View Bookings"
+msgstr "Se Bestilling"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:158
+msgid "Add Product"
+msgstr "Tilføj produkt"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:159
+msgid "Products"
+msgstr "Produkter"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:174
+msgid "No Students found"
+msgstr "Ingen studerende fundet"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:236
+msgid "Add Product to student."
+msgstr "Tilføj produkt til elev"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:246
+msgid "Select Product"
+msgstr "Vælg produkt"
+
+#: /var/www/lisabeth/app/View/Users/students.ctp:275
+msgid "Product Added"
+msgstr "Produkt tilføjet"
+
+#: /var/www/lisabeth/app/View/Users/index.ctp:10
+msgid "All"
+msgstr "Alle"
+
+#: /var/www/lisabeth/app/View/Users/index.ctp:35
+msgid "Users"
+msgstr "Brugere"
+
+#: /var/www/lisabeth/app/View/Users/index.ctp:122
+msgid "No Users are added"
+msgstr "Ingen brugere tilføjet"
+
+#: /var/www/lisabeth/app/View/Users/filter_users.ctp:63
+msgid "Filter User"
+msgstr "Filtrer bruger"
+
+#: /var/www/lisabeth/app/View/Users/filter_users.ctp:79
+msgid "User"
+msgstr "Bruger"
+
+#: /var/www/lisabeth/app/View/Users/filter_users.ctp:87
+msgid "Enter Usename/First Name/Last Name/Email Id"
+msgstr "Indtast brugernavn/Fornavn/Efternavn/E-mail"
+
+#: /var/www/lisabeth/app/View/Users/login.ctp:35
+msgid "Enter your username here..."
+msgstr "Indtast dit brugernavn her"
+
+#: /var/www/lisabeth/app/View/Users/login.ctp:51
+msgid "Login"
+msgstr "Login"
+
+#: /var/www/lisabeth/app/View/Users/login.ctp:56
+msgid "Forgot password?"
+msgstr "Glemt password"
+
+#: /var/www/lisabeth/app/View/Users/forgot_password.ctp:16
+msgid "Enter your username or email id here..."
+msgstr "Indtast bruger eller e-mail her"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/add.ctp:21
+msgid "Edit Activity Number"
+msgstr "Rediger aktivitetsnummer"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/add.ctp:21
+#: /var/www/lisabeth/app/View/ActivityNumbers/index.ctp:7
+msgid "Add Activity Number"
+msgstr "Tilføj aktivitetsnummer"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/add.ctp:34
+msgid "Activity Number Details"
+msgstr "Aktivitetsnummer detaljer"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/add.ctp:40
+msgid "Select Type of Activity Number"
+msgstr "Vælg type"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/add.ctp:48
+msgid "Select Type"
+msgstr "Vælg type"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/add.ctp:64
+msgid "Select Area"
+msgstr "Vælg Område"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/add.ctp:79
+msgid "Met"
+msgstr "Mødt"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/add.ctp:90
+msgid "Not Met"
+msgstr "Ikke Mødt"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/add.ctp:103
+#: /var/www/lisabeth/app/View/ActivityNumbers/add.ctp:110
+#: /var/www/lisabeth/app/View/ActivityNumbers/index.ctp:18
+msgid "Activity Number"
+msgstr "Aktivitetsnummer"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/index.ctp:5
+msgid "Activity Numbers"
+msgstr "Aktivitetsnumre"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/index.ctp:17
+msgid "Name/Area"
+msgstr "Område"
+
+#: /var/www/lisabeth/app/View/ActivityNumbers/index.ctp:59
+msgid "No Activity Numbers are added"
+msgstr "Ingen aktivitetsnummer var tilføjet"
+
+#: /var/www/lisabeth/app/View/Bookings/edit_bookings.ctp:33
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:993
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:159
+msgid "Would You like to Add a Note?"
+msgstr "Vil du tilføje et notat?"
+
+#: /var/www/lisabeth/app/View/Bookings/edit_bookings.ctp:49
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:1005
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:175
+msgid "Long Description"
+msgstr "Lang beskrivelse"
+
+#: /var/www/lisabeth/app/View/Bookings/edit_bookings.ctp:57
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:1013
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:183
+msgid "Enter Long Description"
+msgstr "Indtast lang beskrivelse"
+
+#: /var/www/lisabeth/app/View/Bookings/edit_bookings.ctp:66
+msgid "Change Teacher"
+msgstr "Skift lærer"
+
+#: /var/www/lisabeth/app/View/Bookings/edit_bookings.ctp:88
+#: /var/www/lisabeth/app/View/Bookings/edit_bookings.ctp:112
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:1042
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:1063
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:198
+msgid "Search Teacher"
+msgstr "Søg lærer"
+
+#: /var/www/lisabeth/app/View/Bookings/edit_bookings.ctp:104
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:1056
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:191
+msgid "Select Co Teacher "
+msgstr "Vælg hjælpelærer"
+
+#: /var/www/lisabeth/app/View/Bookings/edit_bookings.ctp:127
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:1077
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:211
+msgid "Select Teacher Course"
+msgstr "Kursus"
+
+#: /var/www/lisabeth/app/View/Bookings/edit_bookings.ctp:134
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:329
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:1084
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:218
+msgid "Select Course"
+msgstr "Kursus"
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:88
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:85
+msgid "Student Name/ Username"
+msgstr "Elev navn"
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:98
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:96
+msgid "Unknown Student"
+msgstr "Ukendt elev"
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:107
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:127
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:128
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:142
+msgid "Enter Student Name"
+msgstr "Indtast elev navn"
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:111
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:132
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:146
+msgid "Enter Student Mobile Number"
+msgstr "Indtast Elev Mobilnummer"
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:243
+msgid "You cannot make a booking for past date."
+msgstr "Du kan ikke lave en bookning tilbage i tiden."
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:291
+msgid "Booking Slot Of "
+msgstr "Booket tid for "
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:291
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:16
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:19
+msgid " Area On "
+msgstr " Område "
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:294
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:418
+msgid "Sorry No Slots Are Free For Booking. "
+msgstr "Desværre, der er ingen ledige baner"
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:916
+msgid "Booking Calendar"
+msgstr "Kalender"
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:936
+msgid "Bookings"
+msgstr "Bookninger"
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:971
+msgid "Book Slot"
+msgstr "Booket tid"
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:1022
+msgid "On Behalf of "
+msgstr "På vejne af"
+
+#: /var/www/lisabeth/app/View/Bookings/calendar.ctp:1035
+msgid "Select Teacher "
+msgstr "Vælg lærer"
+
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:16
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:19
+msgid "Update Booking Slot Of "
+msgstr "Opdater banebookningen for "
+
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:17
+msgid "For Booking Id #"
+msgstr "Booking for "
+
+#: /var/www/lisabeth/app/View/Bookings/add.ctp:240
+msgid "Remove Booking"
+msgstr "Slet Alt"
+
+#: /var/www/lisabeth/app/View/Bookings/view.ctp:4
+msgid "Booking Details"
+msgstr "Booking detaljer"
+
+#: /var/www/lisabeth/app/View/Bookings/view.ctp:9
+msgid "Instructor"
+msgstr "instruktør"
+
+#: /var/www/lisabeth/app/View/Bookings/view.ctp:13
+#: /var/www/lisabeth/app/View/Bookings/get_released_tracks.ctp:214
+#: /var/www/lisabeth/app/View/Bookings/release_track.ctp:159
+#: /var/www/lisabeth/app/View/Bookings/index.ctp:27
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:314
+msgid "Date"
+msgstr "Dato"
+
+#: /var/www/lisabeth/app/View/Bookings/view.ctp:22
+msgid "No decscription"
+msgstr "Ingen beskrivelse"
+
+#: /var/www/lisabeth/app/View/Bookings/view.ctp:46
+msgid "Track Details "
+msgstr "Frigiv bane"
+
+#: /var/www/lisabeth/app/View/Bookings/view.ctp:49
+msgid "View "
+msgstr "udsigt"
+
+#: /var/www/lisabeth/app/View/Bookings/view.ctp:49
+msgid "Details"
+msgstr "Detaljer"
+
+#: /var/www/lisabeth/app/View/Bookings/view.ctp:67
+#: /var/www/lisabeth/app/View/Bookings/get_released_tracks.ctp:215
+#: /var/www/lisabeth/app/View/Bookings/release_track.ctp:163
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:315
+msgid "Time Slot"
+msgstr "Tidsinterval"
+
+#: /var/www/lisabeth/app/View/Bookings/get_released_tracks.ctp:195
+msgid "Released Tracks"
+msgstr "Frigiv bane"
+
+#: /var/www/lisabeth/app/View/Bookings/get_released_tracks.ctp:204
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:304
+msgid "Track And Student Information"
+msgstr "Bane og elev informationer"
+
+#: /var/www/lisabeth/app/View/Bookings/get_released_tracks.ctp:217
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:317
+msgid "Driving Instructor"
+msgstr "kørelærer"
+
+#: /var/www/lisabeth/app/View/Bookings/get_released_tracks.ctp:218
+#: /var/www/lisabeth/app/View/Bookings/release_track.ctp:171
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:318
+msgid "Driving School"
+msgstr "Køreskole"
+
+#: /var/www/lisabeth/app/View/Bookings/get_released_tracks.ctp:238
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:339
+msgid "External Student"
+msgstr "Ukendt elev"
+
+#: /var/www/lisabeth/app/View/Bookings/get_released_tracks.ctp:267
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:387
+msgid "No Tracks Released"
+msgstr "Ingen baner frigivet"
+
+#: /var/www/lisabeth/app/View/Bookings/get_released_tracks.ctp:271
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:391
+msgid "Student Information"
+msgstr "Elev information"
+
+#: /var/www/lisabeth/app/View/Bookings/release_track.ctp:150
+msgid "Area - Track Details"
+msgstr "Området - Track Detaljer"
+
+#: /var/www/lisabeth/app/View/Bookings/release_track.ctp:155
+msgid "Area "
+msgstr "område"
+
+#: /var/www/lisabeth/app/View/Bookings/release_track.ctp:174
+msgid "Select Other Student"
+msgstr "Vælg anden"
+
+#: /var/www/lisabeth/app/View/Bookings/release_track.ctp:323
+msgid "Select Co-Teacher"
+msgstr "Vælg hjælpelærer"
+
+#: /var/www/lisabeth/app/View/Bookings/release_track.ctp:350
+msgid "Release"
+msgstr "Frigivelse"
+
+#: /var/www/lisabeth/app/View/Bookings/index.ctp:9
+msgid " of "
+msgstr "af"
+
+#: /var/www/lisabeth/app/View/Bookings/index.ctp:15
+msgid "Add Booking"
+msgstr "Tilføj booking"
+
+#: /var/www/lisabeth/app/View/Bookings/index.ctp:37
+msgid "Next Run Time"
+msgstr "Næste Spilletid"
+
+#: /var/www/lisabeth/app/View/Bookings/index.ctp:80
+msgid "No Bookings are added."
+msgstr "Ingen bookinger tilføjet"
+
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:189
+msgid "Search Released Tracks"
+msgstr "Søg elever på bane"
+
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:209
+msgid "Select Student"
+msgstr "Vælg elev"
+
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:255
+msgid "Select Driving School"
+msgstr "Vælg køreskole"
+
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:268
+msgid "Select Start Date"
+msgstr "Vælg Start Dato"
+
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:284
+msgid "Select End Date"
+msgstr "Vælg Slutdato"
+
+#: /var/www/lisabeth/app/View/Bookings/search_released_tracks.ctp:294
+msgid "Search"
+msgstr "Søg"
+
+#: /var/www/lisabeth/app/View/Bookings/Ajax/bookings.ctp:152
+msgid "Reopen"
+msgstr "Genåben"
+
+#: /var/www/lisabeth/app/View/Bookings/Ajax/bookings.ctp:157
+msgid "Close"
+msgstr "Luk"
+
+#: /var/www/lisabeth/app/View/Bookings/Ajax/bookings.ctp:164
+msgid "Release Track"
+msgstr "Frigiv bane"
+
+#: /var/www/lisabeth/app/View/Products/add.ctp:20
+msgid "Edit Product"
+msgstr "Rediger produkt"
+
+#: /var/www/lisabeth/app/View/Products/add.ctp:33
+msgid "Product Details"
+msgstr "Produkt detaljer"
+
+#: /var/www/lisabeth/app/View/Products/add.ctp:47
+msgid "Enter Name"
+msgstr "Indtast navn"
+
+#: /var/www/lisabeth/app/View/Products/add.ctp:63
+msgid "Enter Activity Number"
+msgstr "Rediger aktivitetsnummer"
+
+#: /var/www/lisabeth/app/View/Products/add.ctp:73
+#: /var/www/lisabeth/app/View/Products/add.ctp:80
+msgid "Price"
+msgstr "Pris"
+
+#: /var/www/lisabeth/app/View/Products/index.ctp:78
+msgid "No Products are added"
+msgstr "Ingen produkter er tilføjet"
+
+#: /var/www/lisabeth/app/View/Areas/add.ctp:40
+#: /var/www/lisabeth/app/View/Areas/add_1.ctp:36
+msgid "Edit Area"
+msgstr "Rediger bane"
+
+#: /var/www/lisabeth/app/View/Areas/add.ctp:40
+#: /var/www/lisabeth/app/View/Areas/add_1.ctp:36
+#: /var/www/lisabeth/app/View/Areas/index.ctp:6
+msgid "Add Area"
+msgstr "Tilføj område"
+
+#: /var/www/lisabeth/app/View/Areas/add.ctp:53
+#: /var/www/lisabeth/app/View/Areas/add_1.ctp:49
+msgid "Area Details"
+msgstr "Område detajler"
+
+#: /var/www/lisabeth/app/View/Areas/add.ctp:58
+#: /var/www/lisabeth/app/View/Areas/add_1.ctp:54
+msgid "Area Name"
+msgstr "Område navn"
+
+#: /var/www/lisabeth/app/View/Areas/add.ctp:73
+#: /var/www/lisabeth/app/View/Areas/add_1.ctp:68
+msgid "Area Slug"
+msgstr "Område slug"
+
+#: /var/www/lisabeth/app/View/Areas/add.ctp:86
+#: /var/www/lisabeth/app/View/Areas/add.ctp:94
+#: /var/www/lisabeth/app/View/Areas/add_1.ctp:81
+#: /var/www/lisabeth/app/View/Areas/add_1.ctp:89
+#: /var/www/lisabeth/app/View/Areas/index.ctp:19
+msgid "Address"
+msgstr "Adresse"
+
+#: /var/www/lisabeth/app/View/Areas/add.ctp:101
+#: /var/www/lisabeth/app/View/Areas/add.ctp:111
+msgid "Color"
+msgstr "Farve"
+
+#: /var/www/lisabeth/app/View/Areas/add.ctp:141
+#: /var/www/lisabeth/app/View/Areas/add.ctp:173
+#: /var/www/lisabeth/app/View/Areas/add.ctp:198
+#: /var/www/lisabeth/app/View/Areas/add.ctp:258
+msgid "End Time"
+msgstr "Slut dato"
+
+#: /var/www/lisabeth/app/View/Areas/index.ctp:4
+msgid "Areas"
+msgstr "Områder"
+
+#: /var/www/lisabeth/app/View/Areas/index.ctp:18
+msgid "Tracks Count"
+msgstr "Bane antal"
+
+#: /var/www/lisabeth/app/View/Areas/index.ctp:102
+msgid "No Areas are added"
+msgstr "Ingen områder tilføjet"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:2
+msgid "Add Email Settings template"
+msgstr "Tilføj e-mail indstilling skabelon"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:11
+msgid "Setting Name"
+msgstr "Indstilling navn"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:18
+msgid "Name of the Email Settings Template"
+msgstr "Navn på e-mail indstilling skabelonen"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:24
+msgid "Setting Slug"
+msgstr "Indstilling slug"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:31
+msgid "System Friendly Name of the Settings Template"
+msgstr "System navn for indstillings template"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:37
+msgid "Body"
+msgstr "Indhold"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:46
+msgid "Settings E-mail Boby"
+msgstr "E-mail indhold indstillinger"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:52
+msgid "From"
+msgstr "Fra"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:59
+msgid "From E-mail Address"
+msgstr "Fra e-mail adresse"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:72
+msgid "User name for the E-mail Address"
+msgstr "Brugernavn for e-mail adressen"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:85
+msgid "password for the E-mail Address"
+msgstr "Password for e-mail adressen"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:91
+msgid "Mail Types"
+msgstr "Mail type"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:96
+msgid "Select E-mail Type to be used"
+msgstr "Vælg hvilken type der skal bruges"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:102
+msgid "Header"
+msgstr "Hoved"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:110
+msgid "Header to be passed for the E-mail"
+msgstr "Hoved til e-mailen"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:118
+msgid " Save"
+msgstr "Gem"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/add.ctp:128
+msgid " Cancel"
+msgstr "Fortryd"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/index.ctp:4
+msgid "Email Templates Settings"
+msgstr "E-mail skabelon indstillinger"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/index.ctp:7
+msgid "Add Email Template Settings"
+msgstr "Tilføj E-mail skabelon indstillinger"
+
+#: /var/www/lisabeth/app/View/EmailTemplateSettings/index.ctp:19
+msgid "Setting Template Name"
+msgstr "Indstillings navn"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report_pdf.ctp:4
+msgid "Booking Report"
+msgstr "Booking rapport"
+
+#: /var/www/lisabeth/app/View/Reports/student_charge.ctp:13
+#: /var/www/lisabeth/app/View/Reports/open_students_details.ctp:4
+#: /var/www/lisabeth/app/View/Reports/theory_report.ctp:4
+msgid " Generate CSV"
+msgstr "Generer CSV"
+
+#: /var/www/lisabeth/app/View/Reports/student_charge.ctp:31
+msgid "Student Lesson Amount"
+msgstr "Elev lektion saldo"
+
+#: /var/www/lisabeth/app/View/Reports/student_charge.ctp:46
+msgid "Category"
+msgstr "Kategori"
+
+#: /var/www/lisabeth/app/View/Reports/student_charge.ctp:48
+msgid "Amount"
+msgstr "Saldo"
+
+#: /var/www/lisabeth/app/View/Reports/student_charge.ctp:67
+msgid "Lesson"
+msgstr "Lektion"
+
+#: /var/www/lisabeth/app/View/Reports/student_charge.ctp:85
+#: /var/www/lisabeth/app/View/Reports/open_students_details.ctp:82
+msgid "No Pending Student Charges."
+msgstr "Ingen nuværende posteringer"
+
+#: /var/www/lisabeth/app/View/Reports/open_students_details.ctp:23
+msgid "Current Open Student Details"
+msgstr "Åbne elever detaljer"
+
+#: /var/www/lisabeth/app/View/Reports/open_students_details.ctp:37
+msgid "Last Module"
+msgstr "Sidste modul"
+
+#: /var/www/lisabeth/app/View/Reports/open_students_details.ctp:38
+msgid "Number of Driving Test"
+msgstr "Antal køreprøver"
+
+#: /var/www/lisabeth/app/View/Reports/open_students_details.ctp:39
+msgid "Hours"
+msgstr "Timer"
+
+#: /var/www/lisabeth/app/View/Reports/open_students_details.ctp:40
+msgid "Balance"
+msgstr "Saldo"
+
+#: /var/www/lisabeth/app/View/Reports/theory_report.ctp:23
+msgid "Theory Report"
+msgstr "Teori rapport"
+
+#: /var/www/lisabeth/app/View/Reports/theory_report.ctp:30
+msgid "Instructor Name"
+msgstr "Instruktør Navn"
+
+#: /var/www/lisabeth/app/View/Reports/theory_report.ctp:31
+msgid "Registered From"
+msgstr "Registreret fra"
+
+#: /var/www/lisabeth/app/View/Reports/theory_report.ctp:33
+msgid "City"
+msgstr "By"
+
+#: /var/www/lisabeth/app/View/Reports/theory_report.ctp:64
+msgid "No Instructor Registered."
+msgstr "Ingen instruktør registreret"
+
+#: /var/www/lisabeth/app/View/Reports/driving_lessons.ctp:28
+msgid "Unapproved Driving Lessons"
+msgstr "Ikke godkendte køretimer"
+
+#: /var/www/lisabeth/app/View/Reports/driving_lessons.ctp:29
+msgid " from"
+msgstr " fra"
+
+#: /var/www/lisabeth/app/View/Reports/driving_lessons.ctp:70
+msgid "N/A"
+msgstr "N/A"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:4
+msgid "Generate CSV"
+msgstr "Generer CSV"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:20
+msgid "Generate PDF"
+msgstr "Generer PDF"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:51
+msgid "Courses"
+msgstr "Kursuser"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:53
+msgid "Booked By"
+msgstr "Booket af"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:55
+#: /var/www/lisabeth/app/View/Reports/booking_report.ctp:46
+msgid "Co Instructor"
+msgstr "Hjælpelærer"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:56
+msgid "Teacher's City"
+msgstr "Lærerens By"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:57
+#: /var/www/lisabeth/app/View/Reports/booking_report.ctp:47
+msgid "Driving School Name"
+msgstr "Køreskole"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:58
+#: /var/www/lisabeth/app/View/Reports/booking_report.ctp:48
+msgid "Note"
+msgstr "Bemærkinng"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:189
+msgid "Student Details"
+msgstr "Student Detaljer"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:197
+msgid "Course"
+msgstr "Kursus"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:198
+msgid "Students from this driving school"
+msgstr "Egne elever – undervist af egen køreskole"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:199
+msgid "Students from other driving schools"
+msgstr "Elever fra andre køreskoler – Undervist af egen køreskole"
+
+#: /var/www/lisabeth/app/View/Reports/student_track_report.ctp:209
+msgid "Own students and Other teachers"
+msgstr "Egne elever – undervist af andre køreskoler"
+
+#: /var/www/lisabeth/app/View/Reports/index.ctp:158
+msgid "Generate Report"
+msgstr "Generer rapport"
+
+#: /var/www/lisabeth/app/View/Reports/index.ctp:171
+#: /var/www/lisabeth/app/View/Reports/index.ctp:179
+#: /var/www/lisabeth/app/View/Reports/index.ctp:180
+msgid "Select Report Type"
+msgstr "Vælg Rapporttype"
+
+#: /var/www/lisabeth/app/View/Reports/index.ctp:242
+msgid "Enter City"
+msgstr "Indtast by"
+
+#: /var/www/lisabeth/app/View/Reports/index.ctp:293
+#: /var/www/lisabeth/app/View/Reports/index.ctp:335
+msgid "Date From"
+msgstr "fra dato"
+
+#: /var/www/lisabeth/app/View/Reports/index.ctp:312
+#: /var/www/lisabeth/app/View/Reports/index.ctp:354
+msgid "Date To"
+msgstr "Dato Til"
+
+#: /var/www/lisabeth/app/View/Reports/index.ctp:380
+msgid " Generate Report"
+msgstr "Generer rapport"
+
+#: /var/www/lisabeth/app/View/Reports/booking_report.ctp:26
+msgid "Future Bookings"
+msgstr "Fremtidige bookinger"
+
+#: /var/www/lisabeth/app/View/Reports/booking_report.ctp:26
+msgid "Track Bookings Report"
+msgstr "Track Bestilling Report"
+
+#: /var/www/lisabeth/app/View/Reports/booking_report.ctp:45
+msgid "On Behalf"
+msgstr "På vejne af"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:23
+msgid "Hourly Report "
+msgstr "Time rapport"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:90
+msgid "No Bookings Found."
+msgstr "Ingen bookinger fundet"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:102
+msgid "Registered Time"
+msgstr "Registrer tid"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:114
+msgid "Purpose / City / Driving Type"
+msgstr "Formål / By / Type af kørsel"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:160
+msgid "Driving Lessons Details"
+msgstr "Køretimer detaljer"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:201
+msgid "No Driving Lesson Booking"
+msgstr "Ingen bookede køretimer"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:213
+msgid "Instructor Unavailability"
+msgstr "Instruktør ikke disponibel tid"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:223
+msgid "Unavailable From"
+msgstr "Indisponible fra"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:224
+msgid "Unavailable Till"
+msgstr "Indisponible til"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:225
+msgid "Total Time"
+msgstr "Total tid"
+
+#: /var/www/lisabeth/app/View/Reports/hourly_report.ctp:257
+msgid "All Instructor Available."
+msgstr "Alle instruktører er ledige"
+
+#: /var/www/lisabeth/app/View/Attachments/add.ctp:51
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:4
+msgid "Library"
+msgstr "Bibliotek"
+
+#: /var/www/lisabeth/app/View/Attachments/add.ctp:52
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:5
+msgid "Upload Files"
+msgstr "Upload billede"
+
+#: /var/www/lisabeth/app/View/Attachments/add.ctp:62
+msgid "Use File"
+msgstr "Brug fil"
+
+#: /var/www/lisabeth/app/View/Attachments/view.ctp:11
+msgid "Attachment Details"
+msgstr "Vedhæftnings detajler"
+
+#: /var/www/lisabeth/app/View/Attachments/view.ctp:36
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:24
+msgid "File Name"
+msgstr "Filnavn"
+
+#: /var/www/lisabeth/app/View/Attachments/view.ctp:54
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:25
+msgid "Mime Type"
+msgstr "Mail type"
+
+#: /var/www/lisabeth/app/View/Attachments/view.ctp:62
+msgid "Upload On"
+msgstr "Upload"
+
+#: /var/www/lisabeth/app/View/Attachments/view.ctp:70
+msgid "Uploader"
+msgstr "Uploader"
+
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:10
+msgid "Reports"
+msgstr "Rapporter"
+
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:12
+msgid "Add File"
+msgstr "Tilføj fil"
+
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:14
+msgid "Add Report"
+msgstr "Tilføj rapport"
+
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:26
+msgid "Created"
+msgstr "Oprettet"
+
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:29
+msgid "Action"
+msgstr "Handling"
+
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:133
+msgid "Use Files"
+msgstr "Brug filer"
+
+#: /var/www/lisabeth/app/View/Attachments/index.ctp:153
+msgid "perPage"
+msgstr "Per side"
+
+#: /var/www/lisabeth/app/View/DrivingTypes/add.ctp:3
+msgid "Edit Driving Type"
+msgstr "Rediger køreformål"
+
+#: /var/www/lisabeth/app/View/DrivingTypes/add.ctp:3
+msgid "Add Driving Type"
+msgstr "Indtast køreformål"
+
+#: /var/www/lisabeth/app/View/DrivingTypes/add.ctp:16
+msgid "DrivingType Details"
+msgstr "Køreformål detaljer"
+
+#: /var/www/lisabeth/app/View/DrivingTypes/add.ctp:21
+msgid "Driving Type Name"
+msgstr "Køreformål navn"
+
+#: /var/www/lisabeth/app/View/DrivingTypes/add.ctp:28
+msgid "Driving Type"
+msgstr "Køreformål"
+
+#: /var/www/lisabeth/app/View/DrivingTypes/add.ctp:35
+msgid "DrivingT ype Slug"
+msgstr "Køreformål slug"
+
+#: /var/www/lisabeth/app/View/DrivingTypes/index.ctp:4
+msgid "Driving Types"
+msgstr "Køreformål"
+
+#: /var/www/lisabeth/app/View/DrivingTypes/index.ctp:6
+msgid "Add DrivingType"
+msgstr "Tilføj Køreformål"
+
+#: /var/www/lisabeth/app/View/DrivingTypes/index.ctp:16
+msgid "DrivingType"
+msgstr "Køreformål"
+
+#: /var/www/lisabeth/app/View/DrivingTypes/index.ctp:58
+msgid "No Driving Types are added"
+msgstr "Ingen Køreformål er tilføjet"
+
+#: /var/www/lisabeth/app/View/Pages/documents.ctp:4
+msgid "CMS"
+msgstr "CMS"
+
+#: /var/www/lisabeth/app/View/Pages/documents.ctp:6
+msgid "Add New Page"
+msgstr "Tilføj ny side"
+
+#: /var/www/lisabeth/app/View/Pages/documents.ctp:16
+#: /var/www/lisabeth/app/View/Pages/add.ctp:53
+#: /var/www/lisabeth/app/View/Pages/add.ctp:61
+msgid "Title"
+msgstr "Titel"
+
+#: /var/www/lisabeth/app/View/Pages/documents.ctp:64
+msgid "No Pages are added"
+msgstr "Ingen sider er tilføjet"
+
+#: /var/www/lisabeth/app/View/Pages/add.ctp:48
+msgid "Page Details"
+msgstr "Side detaljer"
+
+#: /var/www/lisabeth/app/View/Pages/home.ctp:34
+msgid "Recent Bookings"
+msgstr "Seneste Bookinger"
+
+#: /var/www/lisabeth/app/View/Pages/home.ctp:42
+msgid "All Areas"
+msgstr "Alle områder"
+
+#: /var/www/lisabeth/app/View/Pages/home.ctp:57
+#: /var/www/lisabeth/app/View/Pages/Ajax/bookings.ctp:6
+msgid "Booking Date"
+msgstr "Booking dato"
+
+#: /var/www/lisabeth/app/View/Pages/home.ctp:94
+#: /var/www/lisabeth/app/View/Pages/Ajax/bookings.ctp:39
+msgid "View Details"
+msgstr "Se detaljer"
+
+#: /var/www/lisabeth/app/View/Pages/home.ctp:105
+#: /var/www/lisabeth/app/View/Pages/Ajax/bookings.ctp:49
+msgid "No Bookings Done"
+msgstr "Ingen bookinger"
+
+#: /var/www/lisabeth/app/View/Discounts/add.ctp:3
+msgid "Edit Discount"
+msgstr "Rediger rabat"
+
+#: /var/www/lisabeth/app/View/Discounts/add.ctp:3
+#: /var/www/lisabeth/app/View/Discounts/index.ctp:6
+msgid "Add Discount"
+msgstr "Tilføj rabat"
+
+#: /var/www/lisabeth/app/View/Discounts/add.ctp:16
+msgid "Discount Details"
+msgstr "Rabat detajler"
+
+#: /var/www/lisabeth/app/View/Discounts/add.ctp:21
+#: /var/www/lisabeth/app/View/Discounts/add.ctp:29
+#: /var/www/lisabeth/app/View/Discounts/index.ctp:18
+#: /var/www/lisabeth/app/View/Prices/add.ctp:39
+#: /var/www/lisabeth/app/View/Prices/add.ctp:47
+#: /var/www/lisabeth/app/View/Prices/index.ctp:19
+msgid "From Date"
+msgstr "Fra dato"
+
+#: /var/www/lisabeth/app/View/Discounts/add.ctp:46
+msgid "Select City"
+msgstr "Vælg by"
+
+#: /var/www/lisabeth/app/View/Discounts/add.ctp:56
+#: /var/www/lisabeth/app/View/Discounts/add.ctp:64
+#: /var/www/lisabeth/app/View/Discounts/index.ctp:17
+msgid "Discount"
+msgstr "Rabat"
+
+#: /var/www/lisabeth/app/View/Discounts/index.ctp:4
+msgid "Discounts"
+msgstr "Rabat"
+
+#: /var/www/lisabeth/app/View/Discounts/index.ctp:62
+msgid "No Discounts are added"
+msgstr "Ingen rabat tilføjet"
+
+#: /var/www/lisabeth/app/View/Tncs/view.ctp:3
+#: /var/www/lisabeth/app/View/Tncs/index.ctp:170
+msgid "Terms And Conditions Details"
+msgstr "Meddelser detaljer"
+
+#: /var/www/lisabeth/app/View/Tncs/view.ctp:11
+#: /var/www/lisabeth/app/View/Tncs/user_terms.ctp:2
+#: /var/www/lisabeth/app/View/Tncs/index.ctp:35
+#: /var/www/lisabeth/app/View/Tncs/index.ctp:203
+msgid "Terms And Conditions"
+msgstr "Meddelser"
+
+#: /var/www/lisabeth/app/View/Tncs/user_terms.ctp:29
+msgid "Agree"
+msgstr "Accepter"
+
+#: /var/www/lisabeth/app/View/Tncs/user_terms.ctp:30
+msgid "Do Not Agree"
+msgstr "Accepter ikke"
+
+#: /var/www/lisabeth/app/View/Tncs/user_terms.ctp:41
+msgid "Date : "
+msgstr "Dato:"
+
+#: /var/www/lisabeth/app/View/Tncs/index.ctp:37
+msgid "Add Terms And Conditions"
+msgstr "Tilføj meddelse"
+
+#: /var/www/lisabeth/app/View/Tncs/index.ctp:46
+msgid "User Count"
+msgstr "Bruger antal"
+
+#: /var/www/lisabeth/app/View/Tncs/index.ctp:47
+msgid "User Agreed Count"
+msgstr "Brugere der har accepteret"
+
+#: /var/www/lisabeth/app/View/Tncs/index.ctp:109
+msgid "No Terms And Conditions are added"
+msgstr "Ingen meddelser er tilføjet"
+
+#: /var/www/lisabeth/app/View/Tncs/index.ctp:195
+msgid "Terms"
+msgstr "Meddelser"
+
+#: /var/www/lisabeth/app/View/Prices/add.ctp:20
+msgid "Edit Price"
+msgstr "Rediger pris"
+
+#: /var/www/lisabeth/app/View/Prices/add.ctp:20
+#: /var/www/lisabeth/app/View/Prices/index.ctp:7
+msgid "Add Price"
+msgstr "Tilføj pris"
+
+#: /var/www/lisabeth/app/View/Prices/add.ctp:33
+msgid "Price Details"
+msgstr "Pris detaljer"
+
+#: /var/www/lisabeth/app/View/Prices/add.ctp:57
+msgid "Select Type of Price"
+msgstr "Vælg type af pris"
+
+#: /var/www/lisabeth/app/View/Prices/index.ctp:5
+msgid "Prices"
+msgstr "Priser"
+
+#: /var/www/lisabeth/app/View/Prices/index.ctp:63
+msgid "No Prices are added"
+msgstr "Ingen pris er tilføjet"
+
+#: /var/www/lisabeth/app/View/Companies/add.ctp:3
+msgid "Edit Company"
+msgstr "Opdatering Company"
+
+#: /var/www/lisabeth/app/View/Companies/add.ctp:3
+#: /var/www/lisabeth/app/View/Companies/index.ctp:7
+msgid "Add Company"
+msgstr "Tilføj firma"
+
+#: /var/www/lisabeth/app/View/Companies/add.ctp:16
+msgid "Company Details"
+msgstr "Firma Detaljer"
+
+#: /var/www/lisabeth/app/View/Companies/add.ctp:28
+msgid "Enter Company Name"
+msgstr "Indtast Firmanavn"
+
+#: /var/www/lisabeth/app/View/Companies/add.ctp:37
+#: /var/www/lisabeth/app/View/Companies/index.ctp:18
+msgid "Company Nick Name"
+msgstr "Firma kaldenavn"
+
+#: /var/www/lisabeth/app/View/Companies/add.ctp:44
+msgid "Enter Company Nick Name"
+msgstr "Indtast Company Brugernavn"
+
+#: /var/www/lisabeth/app/View/Companies/add.ctp:73
+msgid "In Active"
+msgstr "inaktive"
+
+#: /var/www/lisabeth/app/View/Companies/index.ctp:5
+msgid "Companies"
+msgstr "Firmaer"
+
+#: /var/www/lisabeth/app/View/Companies/index.ctp:17
+msgid "Company Name"
+msgstr "Firma navn"
+
+#: /var/www/lisabeth/app/View/Companies/index.ctp:63
+msgid "No Companies are added"
+msgstr "Ingen Virksomheder tilføjes"
+
+#: /var/www/lisabeth/app/View/Courses/add.ctp:3
+msgid "Edit Course"
+msgstr "Rediger kursus"
+
+#: /var/www/lisabeth/app/View/Courses/add.ctp:3
+#: /var/www/lisabeth/app/View/Courses/index.ctp:7
+msgid "Add Course"
+msgstr "Tilføj kursus"
+
+#: /var/www/lisabeth/app/View/Courses/add.ctp:16
+msgid "Course Details"
+msgstr "Kursus detaljer"
+
+#: /var/www/lisabeth/app/View/Courses/add.ctp:28
+msgid "Enter Course Name"
+msgstr "Indtast kursus navn"
+
+#: /var/www/lisabeth/app/View/Courses/add.ctp:44
+msgid "Enter Price"
+msgstr "Pris"
+
+#: /var/www/lisabeth/app/View/Courses/add.ctp:56
+#: /var/www/lisabeth/app/View/Courses/index.ctp:19
+msgid "Teacher Time"
+msgstr "Lærer tid"
+
+#: /var/www/lisabeth/app/View/Courses/add.ctp:63
+msgid "Enter Teacher Time in Minutes"
+msgstr "Indtast lærer tid i minutter"
+
+#: /var/www/lisabeth/app/View/Courses/add.ctp:103
+msgid "Preselected Course"
+msgstr "Forvalgt kursus på banen"
+
+#: /var/www/lisabeth/app/View/Courses/index.ctp:42
+msgid " Hours"
+msgstr "Timer"
+
+#: /var/www/lisabeth/app/View/Courses/index.ctp:42
+msgid " Hour"
+msgstr "Time"
+
+#: /var/www/lisabeth/app/View/Courses/index.ctp:75
+msgid "No Courses are added"
+msgstr "Intet kursus er tilføjet"
+
+#: /var/www/lisabeth/app/View/Cities/add.ctp:3
+msgid "Edit City"
+msgstr "Rediger by"
+
+#: /var/www/lisabeth/app/View/Cities/add.ctp:3
+#: /var/www/lisabeth/app/View/Cities/index.ctp:6
+msgid "Add City"
+msgstr "Tilføj By"
+
+#: /var/www/lisabeth/app/View/Cities/add.ctp:16
+msgid "City Details"
+msgstr "By detaljer"
+
+#: /var/www/lisabeth/app/View/Cities/add.ctp:21
+msgid "City Name"
+msgstr "By"
+
+#: /var/www/lisabeth/app/View/Cities/add.ctp:35
+msgid "City Slug"
+msgstr "By slug"
+
+#: /var/www/lisabeth/app/View/Cities/index.ctp:4
+msgid "Cities"
+msgstr "Byer"
+
+#: /var/www/lisabeth/app/View/Cities/index.ctp:58
+msgid "No Cities are added"
+msgstr "Ingen by er tilføjet"
+
+#: /var/www/lisabeth/app/View/Rnd/index.ctp:22
+msgid "Receipt Statistics"
+msgstr "Statistik"
+
+#: /var/www/lisabeth/app/View/Rnd/login.ctp:43
+msgid "Forgot Password"
+msgstr "Glemt password"
+
+#: /var/www/lisabeth/app/View/Rnd/login.ctp:47
+msgid "&copy; Care Admin"
+msgstr "&copy;  Pleje Admin"
+
+#: /var/www/lisabeth/app/View/SmsTemplates/add.ctp:53
+msgid "Add SMS template"
+msgstr "Tilføj sms skabelon"
+
+#: /var/www/lisabeth/app/View/SmsTemplates/add.ctp:62
+msgid "Sms Template Type"
+msgstr "SMS skabelon type"
+
+#: /var/www/lisabeth/app/View/SmsTemplates/add.ctp:67
+msgid "Select SMS Template"
+msgstr "Vælg SMS skabelon"
+
+#: /var/www/lisabeth/app/View/SmsTemplates/add.ctp:81
+msgid "SMS Boby"
+msgstr "SMS indhold"
+
+#: /var/www/lisabeth/app/View/SmsTemplates/index.ctp:6
+msgid "SMS Templates"
+msgstr "SMS Skabelon"
+
+#: /var/www/lisabeth/app/View/SmsTemplates/index.ctp:9
+msgid "Add SMS Template"
+msgstr "Tilføj sms skabelon"
+
+#: /var/www/lisabeth/app/View/SmsTemplates/index.ctp:21
+msgid "Template"
+msgstr "Skabelon"
+
+#: /var/www/lisabeth/app/View/Elements/clientMenu.ctp:32
+#: /var/www/lisabeth/app/View/Elements/menusidebar.ctp:52
+msgid " Dashboard"
+msgstr "Kontrolpanel"
+
+#: /var/www/lisabeth/app/View/Elements/clientMenu.ctp:45
+msgid "your agreements"
+msgstr "Dine aftaler"
+
+#: /var/www/lisabeth/app/View/Elements/clientMenu.ctp:51
+msgid "View All Company"
+msgstr "Se alle firmaer"
+
+#: /var/www/lisabeth/app/View/Elements/clientMenu.ctp:65
+msgid "My Profile"
+msgstr "Din profil"
+
+#: /var/www/lisabeth/app/View/Elements/clientMenu.ctp:97
+msgid " Reports "
+msgstr " Rapporter "
+
+#: /var/www/lisabeth/app/View/Elements/clientMenu.ctp:103
+msgid "View All Reports"
+msgstr "Se alle rapporter"
+
+#: /var/www/lisabeth/app/View/Elements/releasedStudentDetails.ctp:51
+msgid "Phone"
+msgstr "telefon"
+
+#: /var/www/lisabeth/app/View/Elements/releasedStudentDetails.ctp:70
+msgid "Date of Birth"
+msgstr "Fødselsdato"
+
+#: /var/www/lisabeth/app/View/Elements/releasedStudentDetails.ctp:128
+msgid " OR "
+msgstr "eller"
+
+#: /var/www/lisabeth/app/View/Elements/no-margin-header.ctp:11
+#: /var/www/lisabeth/app/View/Elements/header.ctp:13
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: /var/www/lisabeth/app/View/Elements/no-margin-header.ctp:11
+#: /var/www/lisabeth/app/View/Elements/header.ctp:13
+msgid "for your account"
+msgstr "Til din konto"
+
+#: /var/www/lisabeth/app/View/Elements/no-margin-header.ctp:14
+msgid " Logout"
+msgstr "Logud"
+
+#: /var/www/lisabeth/app/View/Elements/no-margin-header.ctp:43
+msgid "Welcome "
+msgstr "Velkommen"
+
+#: /var/www/lisabeth/app/View/Elements/header.ctp:28
+msgid "Logout"
+msgstr "Log ud"
+
+#: /var/www/lisabeth/app/View/Elements/header.ctp:55
+msgid "Welcome"
+msgstr "Velkomst"
+
+#: /var/www/lisabeth/app/View/Elements/menusidebar.ctp:66
+msgid " Documents"
+msgstr "Dokumenter"
+
+#: /var/www/lisabeth/app/View/Elements/menusidebar.ctp:79
+msgid " Bookings"
+msgstr "Bookinger"
+
+#: /var/www/lisabeth/app/View/Elements/menusidebar.ctp:85
+msgid "View All Bookings"
+msgstr "Se alle bookinger"
+
+#: /var/www/lisabeth/app/View/Elements/menusidebar.ctp:141
+msgid " Users"
+msgstr "Brugere"
+
+#: /var/www/lisabeth/app/View/Elements/menusidebar.ctp:189
+msgid " Settings"
+msgstr "Indstillinger"
+
+#: /var/www/lisabeth/app/View/Elements/menusidebar.ctp:203
+msgid " Menu"
+msgstr "Menu"
+
+#: /var/www/lisabeth/app/View/Elements/messagesidebar.ctp:5
+msgid "Create message"
+msgstr "Lav besked"
+
+#: /var/www/lisabeth/app/View/Elements/messagesidebar.ctp:18
+msgid "Mailboxes"
+msgstr "Mailkontoer"
+
+#: /var/www/lisabeth/app/View/Elements/messagesidebar.ctp:22
+msgid " Discussion"
+msgstr "Diskussion"
+
+#: /var/www/lisabeth/app/View/Elements/messagesidebar.ctp:35
+msgid " Sent"
+msgstr "Sendt"
+
+#: /var/www/lisabeth/app/View/Elements/messagesidebar.ctp:48
+msgid " Star"
+msgstr "Stjerne"
+
+#: /var/www/lisabeth/app/View/Elements/messagesidebar.ctp:61
+msgid " Drafts"
+msgstr "Klade"
+
+#: /var/www/lisabeth/app/View/Elements/searchArea.ctp:17
+#: /var/www/lisabeth/app/View/Elements/Widget/systemStatistics.ctp:22
+msgid "Male"
+msgstr "Man"
+
+#: /var/www/lisabeth/app/View/Elements/searchArea.ctp:27
+#: /var/www/lisabeth/app/View/Elements/Widget/systemStatistics.ctp:26
+msgid "Female"
+msgstr "Kvinde"
+
+#: /var/www/lisabeth/app/View/Elements/searchArea.ctp:52
+msgid "Date From : "
+msgstr "Dato fra:"
+
+#: /var/www/lisabeth/app/View/Elements/searchArea.ctp:66
+msgid "Date To : "
+msgstr "Dato til:"
+
+#: /var/www/lisabeth/app/View/Elements/searchArea.ctp:93
+msgid " Results Found"
+msgstr "Resultater fundet"
+
+#: /var/www/lisabeth/app/View/Elements/operatorMenu.ctp:16
+msgid "JSS Admin"
+msgstr "Lisbeth Admin"
+
+#: /var/www/lisabeth/app/View/Elements/operatorMenu.ctp:51
+msgid "View All Users"
+msgstr "Se alle brugere"
+
+#: /var/www/lisabeth/app/View/Elements/operatorMenu.ctp:87
+msgid "View All Companies"
+msgstr "Se alle firmaer"
+
+#: /var/www/lisabeth/app/View/Elements/operatorMenu.ctp:136
+msgid " Add Report "
+msgstr "Tilføj rapport"
+
+#: /var/www/lisabeth/app/View/Elements/Widget/systemStatistics.ctp:5
+msgid "System Statistics"
+msgstr "System statistik"
+
+#: /var/www/lisabeth/app/View/Elements/Widget/systemStatistics.ctp:13
+msgid "Count"
+msgstr "Tælle"
+
+#: /var/www/lisabeth/app/View/Elements/Widget/systemStatistics.ctp:18
+msgid "Family"
+msgstr "Familie"
+
+#: /var/www/lisabeth/app/View/Elements/Widget/systemStatistics.ctp:30
+msgid "Total Members"
+msgstr "Totale medlemmer"
+
+#: /var/www/lisabeth/app/View/Elements/Widget/familySearch.ctp:4
+msgid "Family Search"
+msgstr "Søg"
+
+#: /var/www/lisabeth/app/View/Elements/Widget/familySearch.ctp:18
+#: /var/www/lisabeth/app/View/Elements/Widget/familySearch.ctp:26
+msgid "Family ID"
+msgstr "Familie ID"
+
+#: /var/www/lisabeth/app/View/Elements/Widget/familySearch.ctp:41
+msgid "Member Name"
+msgstr "medlem Navn"
+
+#: /var/www/lisabeth/app/View/Elements/Widget/receiptSearch.ctp:4
+msgid "Receipt Search"
+msgstr "Søg"
+
+#: /var/www/lisabeth/app/View/Elements/Widget/receiptSearch.ctp:18
+#: /var/www/lisabeth/app/View/Elements/Widget/receiptSearch.ctp:26
+msgid "Receipt ID"
+msgstr "ID"
+
+#: /var/www/lisabeth/app/View/EmailTemplates/add.ctp:61
+msgid "Add Email template"
+msgstr "Tilføj e-mail skabelon"
+
+#: /var/www/lisabeth/app/View/EmailTemplates/add.ctp:70
+msgid "Email Template Type"
+msgstr "E-mail skabelon type"
+
+#: /var/www/lisabeth/app/View/EmailTemplates/add.ctp:75
+msgid "Select E-mail Template"
+msgstr "Vælg E-mail skabelon"
+
+#: /var/www/lisabeth/app/View/EmailTemplates/add.ctp:81
+msgid "Setting Template Type"
+msgstr "Skabelon type"
+
+#: /var/www/lisabeth/app/View/EmailTemplates/add.ctp:86
+msgid "Select E-mail Setting Template"
+msgstr "Vælg skabelon indstillinger"
+
+#: /var/www/lisabeth/app/View/EmailTemplates/add.ctp:92
+msgid "Subject"
+msgstr "Emne"
+
+#: /var/www/lisabeth/app/View/EmailTemplates/add.ctp:99
+msgid "Subject of the Email"
+msgstr "Emne på e-mailen"
+
+#: /var/www/lisabeth/app/View/EmailTemplates/add.ctp:117
+msgid "E-mail Boby"
+msgstr "E-mail indhold"
+
+#: /var/www/lisabeth/app/View/EmailTemplates/index.ctp:6
+msgid "Email Templates"
+msgstr "E-mail skabeloner"
+
+#: /var/www/lisabeth/app/View/EmailTemplates/index.ctp:9
+msgid "Add Email Template"
+msgstr "Tilføj e-mail skabelon"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:13
+msgid "Select Controller"
+msgstr "Vælg kontroller"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:31
+msgid "Select Action"
+msgstr "Vælg handling"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:156
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Elements/Menu/menuItem.ctp:29
+msgid "Navigation Label: &nbsp;"
+msgstr "Navigation label: &nbsp;"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:161
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Elements/Menu/menuItem.ctp:33
+msgid "Class Name: &nbsp;"
+msgstr "Klasse navn: &nbsp;"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:169
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Elements/Menu/menuItem.ctp:40
+msgid "Link: &nbsp;"
+msgstr "Link: &nbsp;"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:306
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:311
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:319
+msgid "Select Menu"
+msgstr "Vælg men"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:323
+msgid "Load Menu"
+msgstr "Indlæs Menu"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:330
+msgid "Create new Menu"
+msgstr "Lav menu"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:354
+msgid "Menu Item"
+msgstr "Menu indhold"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:363
+msgid "Name of the menu item"
+msgstr "Navnet på menu"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:368
+msgid "Link Type"
+msgstr "Link type"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:372
+msgid "Internal"
+msgstr "Intern"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:376
+msgid "Custom"
+msgstr "Custom"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:383
+msgid "Link"
+msgstr "Link"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:390
+msgid "Controller"
+msgstr "Controller"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:400
+msgid "Classes"
+msgstr "Classes"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:402
+msgid "Class of the menu item"
+msgstr "Klasse på menu indhold"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:424
+msgid "Menu name"
+msgstr "Menu navn"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:433
+msgid "Name of the menu"
+msgstr "Navn på menuen"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:449
+msgid "Slug for the menu"
+msgstr "Slug for menuen"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:459
+msgid "Object"
+msgstr "Objekt"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:465
+msgid "Select Object Type"
+msgstr "Vælg objekt type"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:477
+msgid "Menu Items List"
+msgstr "Menu liste"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:490
+msgid "Add Menu"
+msgstr "Tilføj menu"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/View/Menus/index.ctp:494
+msgid "Save"
+msgstr "Gem"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:3
+msgid "General Settings"
+msgstr "Generelle indstillinger"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:12
+msgid "Options"
+msgstr "Indstillinger"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:16
+msgid "Site Title"
+msgstr "Sidenavn"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:24
+msgid "Name of the site"
+msgstr "Navnet på siden"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:35
+msgid "Home Page"
+msgstr "Forside"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:43
+msgid "Select Page"
+msgstr "Vælg side"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:55
+msgid "Teacher Notification Time (Minutes)"
+msgstr "Lærer Notification (minutter)"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:64
+msgid "Teacher Notification Time in Minutes"
+msgstr "Lærer Meddelelse i minutter"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:73
+msgid "Student Notification Time  (Minutes)"
+msgstr "Student Notification (minutter)"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:82
+msgid "Student Notification Time in Minutes"
+msgstr "studerende Meddelelse i minutter"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:94
+msgid "IP Address"
+msgstr "IP adresse"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:102
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:120
+msgid "Enter IP Address"
+msgstr "Indtast IP adresse"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:112
+msgid "Relesed Track IP Address"
+msgstr "Udgivet Track IP-adresse"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:130
+msgid "All Tracks Booked Color"
+msgstr "Alle Tracks Reserveret Farve"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:138
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:156
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:174
+msgid "Select Color"
+msgstr "Vælg farve"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:148
+msgid "Few Tracks Remaining to be Booked Color"
+msgstr "Kun få spor tilbage til at være reserveret Color"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/View/Options/index.ctp:166
+msgid "No Tracks Booked Color"
+msgstr "Ingen spor Reserveret Farve"
+
+#: /var/www/lisabeth/app/Model/User.php:113
+msgid "First Name cannot be null."
+msgstr "Fornavn skal udfyldes"
+
+#: /var/www/lisabeth/app/Model/User.php:122
+msgid "First Name Should be 3-30 characters."
+msgstr "Fornavn Skal være 3-30 tegn."
+
+#: /var/www/lisabeth/app/Model/User.php:131
+msgid "Last Name cannot be null."
+msgstr "Efternavn skal udfyldes"
+
+#: /var/www/lisabeth/app/Model/User.php:140
+msgid "Last Name Should be 3-30 characters."
+msgstr "Efternavn Skal være 3-30 tegn."
+
+#: /var/www/lisabeth/app/Model/User.php:149
+msgid "Email ID cannot be null."
+msgstr "E-mail skal udfyldes"
+
+#: /var/www/lisabeth/app/Model/User.php:158
+msgid "Please Enter Valid Email ID."
+msgstr "Indtast en gyldig E-mail"
+
+#: /var/www/lisabeth/app/Model/User.php:170
+#: /var/www/lisabeth/app/Model/User.php:181
+msgid "Email Id already exists."
+msgstr "E-mailen findes allerede i systemet"
+
+#: /var/www/lisabeth/app/Model/User.php:191
+msgid "Phone Number cannot be null."
+msgstr "Tlf nummer skal udfyldes"
+
+#: /var/www/lisabeth/app/Model/User.php:200
+msgid "Please Select Teacher."
+msgstr "Vælg venligst Lærer."
+
+#: /var/www/lisabeth/app/Model/User.php:211
+msgid "Please Select Company."
+msgstr "Vælg venligst Company."
+
+#: /var/www/lisabeth/app/Model/User.php:219
+msgid "Please Enter Nick Name For User."
+msgstr "Venligst Indtast kaldenavn for Bruger."
+
+#: /var/www/lisabeth/app/Model/User.php:225
+msgid "Maximum 3 Characters Are allowed."
+msgstr "Højst 3 tegn er tilladt."
+
+#: /var/www/lisabeth/app/Model/User.php:235
+#: /var/www/lisabeth/app/Model/Discount.php:28
+msgid "City cannot be null."
+msgstr "By kan ikke være null."
+
+#: /var/www/lisabeth/app/Model/User.php:244
+msgid "City Should be 3-30 characters."
+msgstr "Byen skal være 3-30 tegn."
+
+#: /var/www/lisabeth/app/Model/User.php:257
+msgid "Please Enter Username"
+msgstr "Indtast brugernavn"
+
+#: /var/www/lisabeth/app/Model/User.php:266
+#: /var/www/lisabeth/app/Model/User.php:281
+msgid "Username already exists."
+msgstr "Brugernavnet findes allerede"
+
+#: /var/www/lisabeth/app/Model/User.php:290
+msgid "Username cannot be null."
+msgstr "Brugernavn skal udfyldes"
+
+#: /var/www/lisabeth/app/Model/User.php:309
+msgid "Username should be 4-16 characters."
+msgstr "Brugernavn skal være mellem 4-16 tegn"
+
+#: /var/www/lisabeth/app/Model/User.php:321
+#: /var/www/lisabeth/app/Model/User.php:366
+msgid "Please Enter password"
+msgstr "Indtast password"
+
+#: /var/www/lisabeth/app/Model/User.php:329
+msgid "Please Enter confirm password"
+msgstr "Bekræft password"
+
+#: /var/www/lisabeth/app/Model/User.php:337
+msgid "Password and Confirm Password are not same"
+msgstr "De to passwords er ikke ens"
+
+#: /var/www/lisabeth/app/Model/User.php:346
+msgid "Password Length Should be 4-16 characters."
+msgstr "Password skal være mellem 4-16 tegn"
+
+#: /var/www/lisabeth/app/Model/User.php:356
+msgid "Confirm Password Length Should be 4-16 characters."
+msgstr "Password skal være mellem 4-16 tegn"
+
+#: /var/www/lisabeth/app/Model/User.php:478
+msgid "Please Enter City Name."
+msgstr "Venligst Indtast navn City."
+
+#: /var/www/lisabeth/app/Model/User.php:488
+msgid "Please Enter Purpose , spend behind that time."
+msgstr "Du Indtast Formål, tilbragte bag den tid."
+
+#: /var/www/lisabeth/app/Model/User.php:498
+msgid "Select Driving Type."
+msgstr "Vælg køre type"
+
+#: /var/www/lisabeth/app/Model/User.php:507
+msgid "Please Enter Time."
+msgstr "Indtast tid"
+
+#: /var/www/lisabeth/app/Model/Discount.php:20
+msgid "From Date cannot be null."
+msgstr "Fra dato skal udfyldes"
+
+#: /var/www/lisabeth/app/Model/Discount.php:36
+msgid "Discount cannot be null."
+msgstr "Rabat kan ikke være null."
+
+#: /var/www/lisabeth/app/Model/Course.php:20
+msgid "Please Enter Course Name."
+msgstr "Kursus navn"
+
+#: /var/www/lisabeth/app/Model/Course.php:28
+msgid "Please Enter Price."
+msgstr "Indtast pris"
+
+#: /var/www/lisabeth/app/Model/Course.php:34
+msgid "Please Enter Numeric value for price."
+msgstr "Indtast venligst tal for pris"
+
+#: /var/www/lisabeth/app/Model/Course.php:42
+msgid "Please Enter Teacher Time."
+msgstr "Indtast lærer tid"
+
+#: /var/www/lisabeth/app/Model/Course.php:48
+msgid "Please Enter Numeric value for teacher time."
+msgstr "Indtast venligst et tal"
+
+#: /var/www/lisabeth/app/Model/Course.php:56
+msgid "Please Enter Activity Number."
+msgstr "Venligst Indtast aktivitetsnummer"
+
+#: /var/www/lisabeth/app/Model/Course.php:64
+msgid "Please Select Area."
+msgstr "Vælg område."
+
+#: /var/www/lisabeth/app/Model/DrivingLesson.php:17
+msgid "Please Select Student."
+msgstr "Vælg en elev"
+
+#: /var/www/lisabeth/app/Model/DrivingLesson.php:25
+msgid "Please Select Start Time."
+msgstr "Vælg en start tid"
+
+#: /var/www/lisabeth/app/Model/Company.php:19
+msgid "Please Enter Company Name."
+msgstr "Venligst Indtast Firmanavn."
+
+#: /var/www/lisabeth/app/Model/Company.php:27
+msgid "Please Enter Nick Name."
+msgstr "Venligst Indtast kaldenavn."
+
+#: /var/www/lisabeth/app/Model/Company.php:37
+#: /var/www/lisabeth/app/Model/Company.php:45
+msgid "Company Nick Name already exists."
+msgstr "Firmaets navn findes allerede."
+
+#: /var/www/lisabeth/app/Model/Product.php:45
+msgid "Name cannot be null."
+msgstr "Navn skal udfyldes"
+
+#: /var/www/lisabeth/app/Model/Product.php:53
+msgid "Activity Number cannot be null."
+msgstr "Aktivitetsnummer skal udfyldes"
+
+#: /var/www/lisabeth/app/Model/Product.php:61
+msgid "Price cannot be null."
+msgstr "Pris kan ikke være null."
+
+#: /var/www/lisabeth/app/Model/Tnc.php:18
+msgid "Title Cannot Be Empty."
+msgstr "Titlen kan ikke blive tom."
+
+#: /var/www/lisabeth/app/Model/Tnc.php:26
+msgid "Terms Cannot Be Empty."
+msgstr "Meddelsen kan ikke være tom."
+
+#: /var/www/lisabeth/app/Model/Booking.php:42
+msgid "Please Enter Atleast One Booking Details."
+msgstr "Indtast venligst en detalje."
+
+#: /var/www/lisabeth/app/Model/Booking.php:51
+msgid "Please Select User."
+msgstr "Vælg bruger."
+
+#: /var/www/lisabeth/app/Model/Booking.php:71
+#: /var/www/lisabeth/app/Model/Booking.php:142
+msgid "You Can not Add Single Student For Multiple Tracks."
+msgstr "Du kan ikke tilføje den samme elev til flere baner."
+
+#: /var/www/lisabeth/app/Model/Booking.php:103
+msgid "You can not select student you have selected unknown student."
+msgstr "Du kan ikke vælge studerende, du har valgt ukendt elev."
+
+#: /var/www/lisabeth/app/Model/Booking.php:122
+msgid "Time Slots Should be in sequence."
+msgstr "Tiderne skal være ens."
+
+#: /var/www/lisabeth/app/Model/Booking.php:166
+msgid "Please Select minimum timeslot as selected in first track."
+msgstr "Vælg minimum tidsinterval som valgt i første spor."
+
+#: /var/www/lisabeth/app/Model/Booking.php:199
+msgid "Student already selected"
+msgstr "studerende allerede er valgt"
+
+#: /var/www/lisabeth/app/Model/Booking.php:237
+msgid "Please check only one status"
+msgstr "Tjek venligst kun en status"
+
+#: /var/www/lisabeth/app/Model/Booking.php:245
+msgid "Please check atleast one status"
+msgstr "Du mangler at foretage et valg"
+
+#: /var/www/lisabeth/app/Model/Booking.php:270
+msgid "Student name cannot be empty"
+msgstr "studerende kan ikke være tom"
+
+#: /var/www/lisabeth/app/Model/Booking.php:278
+msgid "Phone no. cannot be empty"
+msgstr "Telefonnr. kan ikke være tomt"
+
+#: /var/www/lisabeth/app/Model/Booking.php:286
+msgid "Address cannot be empty"
+msgstr "Adresse kan ikke være tom"
+
+#: /var/www/lisabeth/app/Model/Booking.php:294
+msgid "Date of Birth cannot be empty"
+msgstr "Fødselsdato kan ikke være tom"
+
+#: /var/www/lisabeth/app/Model/Booking.php:780
+msgid "External User"
+msgstr "Ekstern bruger"
+
+#: /var/www/lisabeth/app/Model/Booking.php:805
+msgid "Please Select From Time."
+msgstr "Vælg venligst fra Time."
+
+#: /var/www/lisabeth/app/Model/Booking.php:813
+msgid "Please Select To Time."
+msgstr "Vælg venligst til anden."
+
+#: /var/www/lisabeth/app/Model/Booking.php:822
+msgid "From Time Must be less then To Time."
+msgstr "Tjek venligst kun en status..."
+
+#: /var/www/lisabeth/app/Model/ActivityNumber.php:26
+msgid "Please Select Activity type."
+msgstr "Vælg en aktivitetstype"
+
+#: /var/www/lisabeth/app/Model/ActivityNumber.php:35
+msgid "Please Select area."
+msgstr "Vælg område"
+
+#: /var/www/lisabeth/app/Model/ActivityNumber.php:43
+msgid "Please Select status."
+msgstr "Vælg status"
+
+#: /var/www/lisabeth/app/Model/Price.php:34
+msgid "Area cannot be null."
+msgstr "Område skal udfyldes"
+
+#: /var/www/lisabeth/app/View/Helper/MyHtmlHelper.php:62
+msgid "Reload"
+msgstr "Opdater Baner"
+
+#: /var/www/lisabeth/app/View/Helper/MyHtmlHelper.php:82
+msgid " Days "
+msgstr "Dag"
+
+#: /var/www/lisabeth/app/View/Helper/MyHtmlHelper.php:82
+msgid " Hours "
+msgstr "Timer"
+
+#: /var/www/lisabeth/app/View/Helper/MyHtmlHelper.php:82
+msgid " Minutes"
+msgstr "Minutter"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:114
+#: /var/www/lisabeth/app/Config/bootstrap.php:115
+#: /var/www/lisabeth/app/Config/bootstrap.php:116
+#: /var/www/lisabeth/app/Config/bootstrap.php:117
+#, php-format
+msgid "%d page"
+msgstr "%d side"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:130
+msgid "Temporary"
+msgstr "Midlertidig"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:131
+#: /var/www/lisabeth/app/Config/bootstrap.php:183
+msgid "Confirmed"
+msgstr "Bekræftet"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:135
+msgid "No"
+msgstr "Nr."
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:136
+msgid "Daily"
+msgstr "Daglig"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:137
+msgid "Weekly"
+msgstr "Ugentlig"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:138
+msgid "Monthly"
+msgstr "Månedlig"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:139
+msgid "Yearly"
+msgstr "Årlig"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:173
+msgid "Driving"
+msgstr "Lektion"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:174
+msgid "Test"
+msgstr "Prøve"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:178
+msgid "Single (1 Hour)"
+msgstr "Køreprøve (45 min)"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:179
+msgid "Double (2 Hours)"
+msgstr "Dobbeltlektion (90 min)"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:184
+msgid "Not Confirmed"
+msgstr "Ikke bekræftet"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:189
+msgid "Driving Lesson"
+msgstr "Køretime"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:190
+msgid "Driving Test"
+msgstr "Køreprøve"
+
+#: /var/www/lisabeth/app/Config/bootstrap.php:191
+msgid "Theory"
+msgstr "Teori"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/Controller/MenusController.php:61
+#: /var/www/lisabeth/app/Plugin/CustomMenu/Controller/MenusController.php:71
+msgid "Menu saved successfully"
+msgstr "Menuen er gemt"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/Controller/MenusController.php:63
+#: /var/www/lisabeth/app/Plugin/CustomMenu/Controller/MenusController.php:73
+msgid "Menu not saved successfully"
+msgstr "Menuen blev ikke gemt"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/Controller/MenusController.php:96
+msgid "Requested Menu Not Found."
+msgstr "Den valgte menu er ikke fundet"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/Controller/MenusController.php:110
+msgid "The Capability Group has been updated"
+msgstr "Gruppen er opdateret"
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/Controller/MenusController.php:113
+msgid "The Capability Group could not be updated. Please, try again."
+msgstr "Gruppen kunne ikke opdateres. Prøv venligst igen."
+
+#: /var/www/lisabeth/app/Plugin/CustomMenu/Controller/MenusController.php:131
+msgid "The Menu has been deleted"
+msgstr "Menuen er slettet"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/Controller/OptionsController.php:11
+msgid "General Options"
+msgstr "Indstillinger"
+
+#: /var/www/lisabeth/app/Plugin/ThemeOptions/Controller/OptionsController.php:19
+msgid "The Options has been saved"
+msgstr "Indstillingerne er gemt"
+
+#: /var/www/lisabeth/app/Controller/RndController.php:430
+msgid "Time Slots"
+msgstr "Tid"
+
+#: /var/www/lisabeth/app/Controller/RndController.php:477
+msgid "Week"
+msgstr "Uge"
+
+#: /var/www/lisabeth/app/Controller/CoursesController.php:92
+msgid "The Course has been submitted"
+msgstr "Kurset er tilmeldt"
+
+#: /var/www/lisabeth/app/Controller/CoursesController.php:94
+#: /var/www/lisabeth/app/Controller/CoursesController.php:104
+msgid "Course Add"
+msgstr "Tilmeld kursus"
+
+#: /var/www/lisabeth/app/Controller/CoursesController.php:102
+msgid "The Course not submitted successfully"
+msgstr "Kurset er ikke tilmeldt"
+
+#: /var/www/lisabeth/app/Controller/CoursesController.php:163
+msgid "The Course has been updated."
+msgstr "Kurset er opdateret"
+
+#: /var/www/lisabeth/app/Controller/CoursesController.php:165
+#: /var/www/lisabeth/app/Controller/CoursesController.php:175
+msgid "Course Update"
+msgstr "Kursus opdatering"
+
+#: /var/www/lisabeth/app/Controller/CoursesController.php:173
+msgid "The Course not updated successfully"
+msgstr "Kurset blev ikke opdateret"
+
+#: /var/www/lisabeth/app/Controller/CoursesController.php:191
+msgid "The Course has been deleted"
+msgstr "Kurset er slettet"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:95
+msgid "Student Profile"
+msgstr "Elev profil"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:135
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:149
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:253
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:267
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:369
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:383
+msgid "Not Confirmed yet"
+msgstr "Ikke bekræftet"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:156
+msgid "Driving Lesson Added Successfully."
+msgstr "Køretimen er tilføjet"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:166
+msgid "Driving Lesson Couldnot Added. Please try again later."
+msgstr "Køretimen kunne ikke gemmes, prøv igen"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:274
+msgid "Driving Lesson Updated Successfully."
+msgstr "Køretimen er opdateret"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:276
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:286
+msgid "Update Driving Lesson"
+msgstr "Opdater køretime"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:284
+msgid "Driving Lesson Couldnot Updated. Please try again later."
+msgstr "Køretimen kunne ikke opdateres. Prøv igen senere"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:314
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:321
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:329
+msgid "Minimum Balance Warning"
+msgstr "Saldo varsel"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:315
+msgid "Sorry! Booking could not be done, due to insufficient balance. Student's balance is"
+msgstr "Desværre! Bookningen kan ikke gennemføres, pga. negativ saldo. Elevens saldo er"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:322
+msgid "Student's balance is"
+msgstr "Elevens saldo er"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:322
+msgid "and after this booking would be"
+msgstr "og efter denne bookning vil være"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:322
+msgid ". If you have seen the payment of proof click on \"Seen proof of payment/receipt of cash\" button else cancel this booking"
+msgstr "Hvis du har set en bekræftelse på gennemført betaling tryk på “Bekræft at du har set bevis på gennemført betaling” eller annuller bookningen."
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:323
+msgid "Seen proof of payment/receipt of cash"
+msgstr "Bekræft at du har set bevis på gennemført betaling"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:324
+msgid "Cancel Booking"
+msgstr "Annuller booking"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:330
+msgid "Student's balance would be "
+msgstr "Elevens saldo vil være"
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:330
+msgid "after this booking."
+msgstr "efter denne bookning."
+
+#: /var/www/lisabeth/app/Controller/DrivingLessonsController.php:389
+msgid "The Booking has been deleted"
+msgstr "Bookingen er slettet"
+
+#: /var/www/lisabeth/app/Controller/DrivingTypesController.php:11
+msgid "DrivingTypes"
+msgstr "Køretype"
+
+#: /var/www/lisabeth/app/Controller/DrivingTypesController.php:75
+#: /var/www/lisabeth/app/Controller/DrivingTypesController.php:111
+msgid "The DrivingType has been saved"
+msgstr "Køretypen er gemt"
+
+#: /var/www/lisabeth/app/Controller/DrivingTypesController.php:78
+#: /var/www/lisabeth/app/Controller/DrivingTypesController.php:114
+msgid "The DrivingType could not be saved. Please, try again."
+msgstr "Køretypen kunne ikke gemmes. Prøv igen senere"
+
+#: /var/www/lisabeth/app/Controller/DrivingTypesController.php:124
+msgid "The DrivingType has been deleted"
+msgstr "Køretypen er slettet"
+
+#: /var/www/lisabeth/app/Controller/EmailTemplateSettingsController.php:18
+msgid "Email Template Settings"
+msgstr "E-mail skabelon indstillinger"
+
+#: /var/www/lisabeth/app/Controller/EmailTemplateSettingsController.php:35
+msgid "Edit "
+msgstr "Rediger"
+
+#: /var/www/lisabeth/app/Controller/EmailTemplateSettingsController.php:74
+msgid "The E-mail Settings Template has been saved"
+msgstr "E-mail skabelonen er gemt"
+
+#: /var/www/lisabeth/app/Controller/EmailTemplateSettingsController.php:77
+msgid "The E-mail Settings Template could not be saved. Please, try again."
+msgstr "E-mail skabelonen kunne ikke gemmes, prøv igen senere."
+
+#: /var/www/lisabeth/app/Controller/EmailTemplateSettingsController.php:92
+msgid "Requested Email Settings Template Not Found."
+msgstr "E-mail skabelonen er ikke fundet."
+
+#: /var/www/lisabeth/app/Controller/EmailTemplateSettingsController.php:100
+msgid "The E-mail Settings Template has been updated"
+msgstr "E-mail skabelonen er blevet opdateret"
+
+#: /var/www/lisabeth/app/Controller/EmailTemplateSettingsController.php:103
+msgid "The E-mail Setting Template could not be updated. Please, try again."
+msgstr "E-mail skabelonen kunne ikke opdateres, prøv igen."
+
+#: /var/www/lisabeth/app/Controller/EmailTemplateSettingsController.php:120
+msgid "The E-mail Setting Template has been deleted"
+msgstr "E-mail skabelonen er slettet"
+
+#: /var/www/lisabeth/app/Controller/CitiesController.php:75
+#: /var/www/lisabeth/app/Controller/CitiesController.php:111
+msgid "The City has been saved"
+msgstr "Byen er gemt"
+
+#: /var/www/lisabeth/app/Controller/CitiesController.php:78
+#: /var/www/lisabeth/app/Controller/CitiesController.php:114
+msgid "The City could not be saved. Please, try again."
+msgstr "Byen kunne ikke gemmes, prøv igen"
+
+#: /var/www/lisabeth/app/Controller/CitiesController.php:124
+msgid "The City has been deleted"
+msgstr "Byen er slettet"
+
+#: /var/www/lisabeth/app/Controller/EmailTemplatesController.php:96
+msgid "The E-mail Template has been saved"
+msgstr "E-mail skabelonen er gemt"
+
+#: /var/www/lisabeth/app/Controller/EmailTemplatesController.php:99
+msgid "The E-mail Template could not be saved. Please, try again."
+msgstr "E-mail skabelonen kunne ikke gemmes."
+
+#: /var/www/lisabeth/app/Controller/EmailTemplatesController.php:121
+msgid "The E-mail Template has been updated"
+msgstr "E-mail skabelonen er opdateret"
+
+#: /var/www/lisabeth/app/Controller/EmailTemplatesController.php:124
+msgid "The E-mail Template could not be updated. Please, try again."
+msgstr "E-mail skabelonen kunne ikke blive opdateret. Prøv igen"
+
+#: /var/www/lisabeth/app/Controller/EmailTemplatesController.php:142
+msgid "The E-mail Template has been deleted"
+msgstr "E-mail skabelonen er slettet"
+
+#: /var/www/lisabeth/app/Controller/PricesController.php:98
+#: /var/www/lisabeth/app/Controller/PricesController.php:173
+msgid "The Price has been submitted"
+msgstr "Prisen er tilføjet"
+
+#: /var/www/lisabeth/app/Controller/PricesController.php:100
+#: /var/www/lisabeth/app/Controller/PricesController.php:110
+#: /var/www/lisabeth/app/Controller/PricesController.php:175
+#: /var/www/lisabeth/app/Controller/PricesController.php:185
+msgid "Price Add"
+msgstr "Tilføj pris"
+
+#: /var/www/lisabeth/app/Controller/PricesController.php:108
+#: /var/www/lisabeth/app/Controller/PricesController.php:183
+msgid "The Price not submitted successfully"
+msgstr "Prisen er ikke tilføjet korrekt"
+
+#: /var/www/lisabeth/app/Controller/PricesController.php:209
+msgid "The Price has been deleted"
+msgstr "Prisen er slettet"
+
+#: /var/www/lisabeth/app/Controller/ActivityNumbersController.php:93
+msgid "The Activity Number has been submitted"
+msgstr "Aktivitetsnummeret er tilføjet"
+
+#: /var/www/lisabeth/app/Controller/ActivityNumbersController.php:95
+#: /var/www/lisabeth/app/Controller/ActivityNumbersController.php:105
+msgid "Activity Number Add"
+msgstr "Tilføj aktivitetsnummer"
+
+#: /var/www/lisabeth/app/Controller/ActivityNumbersController.php:103
+msgid "The Activity Number not submitted successfully"
+msgstr "Aktivitetsnummeret er ikke oprettet korrekt"
+
+#: /var/www/lisabeth/app/Controller/ActivityNumbersController.php:166
+msgid "The Activity Number has been updated."
+msgstr "Aktivitetsnummeret er opdateret"
+
+#: /var/www/lisabeth/app/Controller/ActivityNumbersController.php:168
+#: /var/www/lisabeth/app/Controller/ActivityNumbersController.php:178
+msgid "Activity Number Update"
+msgstr "Opdater aktivitetsnummer"
+
+#: /var/www/lisabeth/app/Controller/ActivityNumbersController.php:176
+msgid "The Activity Number not updated successfully"
+msgstr "Aktivitetsnummeret er ikke opdateret"
+
+#: /var/www/lisabeth/app/Controller/ActivityNumbersController.php:200
+msgid "The Activity Number has been deleted"
+msgstr "Aktivitetesnummeret er slettet"
+
+#: /var/www/lisabeth/app/Controller/CompaniesController.php:89
+msgid "The Company has been submitted"
+msgstr "Selskabet er blevet forelagt"
+
+#: /var/www/lisabeth/app/Controller/CompaniesController.php:91
+#: /var/www/lisabeth/app/Controller/CompaniesController.php:101
+msgid "Company Add"
+msgstr "Firma Tilføj"
+
+#: /var/www/lisabeth/app/Controller/CompaniesController.php:99
+msgid "The Company not submitted successfully"
+msgstr "Selskabet ikke sendt"
+
+#: /var/www/lisabeth/app/Controller/CompaniesController.php:158
+msgid "The Company has been updated."
+msgstr "Selskabet er blevet opdateret."
+
+#: /var/www/lisabeth/app/Controller/CompaniesController.php:160
+#: /var/www/lisabeth/app/Controller/CompaniesController.php:170
+msgid "Company Update"
+msgstr "Firma opdatering"
+
+#: /var/www/lisabeth/app/Controller/CompaniesController.php:168
+msgid "The Company not updated successfully"
+msgstr "Selskabet ikke opdateret"
+
+#: /var/www/lisabeth/app/Controller/CompaniesController.php:185
+msgid "The Company has been deleted"
+msgstr "Selskabet er blevet slettet"
+
+#: /var/www/lisabeth/app/Controller/RolesController.php:81
+#: /var/www/lisabeth/app/Controller/RolesController.php:117
+msgid "The Role has been saved"
+msgstr "Rollen er gemt"
+
+#: /var/www/lisabeth/app/Controller/RolesController.php:84
+#: /var/www/lisabeth/app/Controller/RolesController.php:120
+msgid "The Role could not be saved. Please, try again."
+msgstr "Rollen kunne ikke gemmes, prøv igen"
+
+#: /var/www/lisabeth/app/Controller/RolesController.php:130
+msgid "The Role has been deleted"
+msgstr "Rollen er slettet"
+
+#: /var/www/lisabeth/app/Controller/PagesController.php:138
+msgid "Pages"
+msgstr "Sider"
+
+#: /var/www/lisabeth/app/Controller/PagesController.php:207
+#: /var/www/lisabeth/app/Controller/PagesController.php:254
+msgid "The Page has been saved"
+msgstr "Siden er gemt"
+
+#: /var/www/lisabeth/app/Controller/PagesController.php:210
+#: /var/www/lisabeth/app/Controller/PagesController.php:257
+msgid "The Page could not be saved. Please, try again."
+msgstr "Siden kunne ikke gemmes. Prøv igen senere"
+
+#: /var/www/lisabeth/app/Controller/PagesController.php:221
+msgid "The Page has been deleted"
+msgstr "Siden er slettet"
+
+#: /var/www/lisabeth/app/Controller/TncsController.php:81
+#: /var/www/lisabeth/app/Controller/TncsController.php:193
+#: /var/www/lisabeth/app/Controller/TncsController.php:271
+msgid "Sorry You have no access."
+msgstr "Beklager - du har ikke adgang her."
+
+#: /var/www/lisabeth/app/Controller/TncsController.php:149
+msgid "The Terms And Conditions Are Saved."
+msgstr "Meddelserne er gemt"
+
+#: /var/www/lisabeth/app/Controller/TncsController.php:214
+#: /var/www/lisabeth/app/Controller/TncsController.php:235
+msgid "Sorry You have to Agree All The Updated Terms & Conditions. Then You can Proceed Further."
+msgstr "Godkend venligst meddelsen for at komme videre."
+
+#: /var/www/lisabeth/app/Controller/TncsController.php:239
+msgid "You have Agreed Our Terms & Conditions."
+msgstr "Du har godkendt meddelsen."
+
+#: /var/www/lisabeth/app/Controller/TncsController.php:287
+msgid "The Terms & conditions is Deleted."
+msgstr "Meddelsen er slettet."
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:23
+msgid "Bookings Report"
+msgstr "Banebookninger"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:27
+msgid "Instructor-Wise Track Report"
+msgstr "Instruktør banebookninger"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:31
+#: /var/www/lisabeth/app/Controller/ReportsController.php:891
+msgid "Hourly Report"
+msgstr "Timerapport"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:55
+msgid "Current Open Student"
+msgstr "Åbne elever"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:223
+msgid "Booked Track"
+msgstr "Booket bane"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:289
+msgid " for \""
+msgstr " for “"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:300
+#: /var/www/lisabeth/app/Controller/ReportsController.php:368
+#: /var/www/lisabeth/app/Controller/ReportsController.php:564
+msgid " from "
+msgstr "fra"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:300
+#: /var/www/lisabeth/app/Controller/ReportsController.php:368
+#: /var/www/lisabeth/app/Controller/ReportsController.php:490
+#: /var/www/lisabeth/app/Controller/ReportsController.php:564
+#: /var/www/lisabeth/app/Controller/ReportsController.php:1110
+msgid " to "
+msgstr " to "
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:475
+#: /var/www/lisabeth/app/Controller/ReportsController.php:1089
+#: /var/www/lisabeth/app/Controller/ReportsController.php:1095
+msgid "of"
+msgstr "af"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:480
+#: /var/www/lisabeth/app/Controller/ReportsController.php:1100
+msgid "for"
+msgstr "for"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:490
+#: /var/www/lisabeth/app/Controller/ReportsController.php:1110
+msgid "from"
+msgstr "fra"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:706
+msgid "Student Lesson Charges On "
+msgstr "Student Lektion afgifter på"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:728
+msgid "Teacher Wise Track Report"
+msgstr "Banebookning - lærer inddelt "
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:728
+#: /var/www/lisabeth/app/Controller/ReportsController.php:796
+#: /var/www/lisabeth/app/Controller/ReportsController.php:838
+#: /var/www/lisabeth/app/Controller/ReportsController.php:864
+#: /var/www/lisabeth/app/Controller/ReportsController.php:891
+#: /var/www/lisabeth/app/Controller/ReportsController.php:969
+msgid " On "
+msgstr "På"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:730
+msgid "Teacher Wise Track Report On "
+msgstr "Banebookning - lærer inddelt på"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:796
+msgid "Track Booking Report"
+msgstr "Banebooking rapport "
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:798
+msgid "Track Booking Report On "
+msgstr "Banebooking rapport på"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:835
+msgid "Unapproved Driving Lessons On "
+msgstr "Ikke godkendte køretimer på"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:838
+msgid "Unapproved Driving Lessons "
+msgstr "Ikke godkendte køretimer"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:864
+msgid "Future Booking Report"
+msgstr "Fremtidige bookinger"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:866
+msgid "Future Booking Time Wise Track Report On "
+msgstr "Fremtidige bookinger rapport på"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:893
+msgid "Hourly Report On "
+msgstr "Time rapport på"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:915
+#: /var/www/lisabeth/app/Controller/ReportsController.php:935
+#: /var/www/lisabeth/app/Controller/ReportsController.php:951
+#: /var/www/lisabeth/app/Controller/ReportsController.php:974
+msgid "Instrucutor Name"
+msgstr "Lærer navn"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:971
+msgid "Theory Report On "
+msgstr "Teori rapport på"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:988
+msgid "Driving Lessons On "
+msgstr "Køretimer på"
+
+#: /var/www/lisabeth/app/Controller/ReportsController.php:1012
+msgid "Current Open Student Details On "
+msgstr "Åbne elever detaljer på"
+
+#: /var/www/lisabeth/app/Controller/TracksController.php:109
+#: /var/www/lisabeth/app/Controller/TracksController.php:154
+msgid "The Track has been saved"
+msgstr "Banen er gemt"
+
+#: /var/www/lisabeth/app/Controller/TracksController.php:112
+#: /var/www/lisabeth/app/Controller/TracksController.php:157
+msgid "The Track could not be saved. Please, try again."
+msgstr "Banen kunne ikke gemmes. Prøv igen"
+
+#: /var/www/lisabeth/app/Controller/TracksController.php:172
+msgid "The Track has been deleted"
+msgstr "Banen er slettet"
+
+#: /var/www/lisabeth/app/Controller/AttachmentsController.php:122
+msgid "Add Attachment"
+msgstr "Vedhæft fil"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:39
+#: /var/www/lisabeth/app/Controller/BookingsController.php:48
+msgid "Booking For "
+msgstr "Booking for"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:62
+msgid "Calendar"
+msgstr "Kalender"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:272
+msgid "The Booking is done."
+msgstr "Booking er gemt"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:274
+#: /var/www/lisabeth/app/Controller/BookingsController.php:286
+#: /var/www/lisabeth/app/Controller/BookingsController.php:533
+#: /var/www/lisabeth/app/Controller/BookingsController.php:548
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2183
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2198
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2316
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2330
+msgid "Booking"
+msgstr "Booking"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:284
+msgid "The Booking is not done. Please try some time later."
+msgstr "Der er sket en fejl, prøv igen senere."
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:531
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2314
+msgid "The Booking has been updated."
+msgstr "Bookingen er opdateret"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:546
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2328
+msgid "The Booking could not be updated. Please try some time later."
+msgstr "Bookingen kunne ikke opdateres. Prøv igen senere"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:654
+msgid "Sorry! Booking could not be done, due to insufficient balance."
+msgstr "Desværre! Bookingen kunne ikke gennemfører pga. negativ saldo."
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:654
+#: /var/www/lisabeth/app/Controller/BookingsController.php:662
+msgid "'s balance is"
+msgstr "’s saldo er"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:671
+msgid "'s balance would be "
+msgstr "’s saldo vil være "
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:829
+msgid "Track could not be deleted"
+msgstr "Track kunne ikke slettes"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:895
+msgid "Track deleted!"
+msgstr "Spor slettet!"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:966
+msgid "Timing"
+msgstr "Timing"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:972
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1124
+msgid "Test Booking"
+msgstr "Test booking"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:972
+#: /var/www/lisabeth/app/Controller/BookingsController.php:980
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1124
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1131
+msgid "Track Booking"
+msgstr "Bane booking"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:980
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1131
+msgid "Test Booking - "
+msgstr "Test Booking - "
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1118
+msgid "Time"
+msgstr "Tid"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1466
+msgid "Tid"
+msgstr "Tid"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1625
+msgid "Could not be updated, please try again."
+msgstr "Kunne ikke opdateres, skal du prøve igen."
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1626
+msgid "Booking Track Update"
+msgstr "Booking Track opdatering"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1808
+msgid "Please select valid date range."
+msgstr "Vælg et gyldigt dato interval"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1946
+msgid "Booking Track updated successfully"
+msgstr "Booking spor opdateret"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1950
+msgid "Booking Track could not updated"
+msgstr "Booking Track kunne ikke opdateret"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:1956
+msgid "Update Booking Track"
+msgstr "Opdatering Booking Track"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2028
+msgid "Track Status Closed"
+msgstr "Banen er nu lukket"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2030
+msgid "Track Status could not be Closed"
+msgstr "Banen kan nu lukkes"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2033
+msgid "Update Track Status"
+msgstr "Opdater bane status"
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2181
+msgid "The Booking Track Status has been updated."
+msgstr "Bookingen er opdateret."
+
+#: /var/www/lisabeth/app/Controller/BookingsController.php:2196
+msgid "The Booking Track Status could not be updated. Please try some time later."
+msgstr "Bookingen kunne ikke opdateres. Prøv igen senere."
+
+#: /var/www/lisabeth/app/Controller/SmsTemplatesController.php:71
+msgid "The SMS Template has been saved"
+msgstr "SMS skabelonen er gemt"
+
+#: /var/www/lisabeth/app/Controller/SmsTemplatesController.php:74
+msgid "The SMS Template could not be saved. Please, try again."
+msgstr "SMS skabelonen kunne ikke gemmes."
+
+#: /var/www/lisabeth/app/Controller/SmsTemplatesController.php:94
+msgid "The SMS Template has been updated"
+msgstr "SMS skabelonen er opdateret"
+
+#: /var/www/lisabeth/app/Controller/SmsTemplatesController.php:97
+msgid "The SMS Template could not be updated. Please, try again."
+msgstr "SMS skabelonen kunne ikke blive opdateret. Prøv igen"
+
+#: /var/www/lisabeth/app/Controller/SmsTemplatesController.php:112
+msgid "The SMS Template has been deleted"
+msgstr "SMS skabelonen er slettet"
+
+#: /var/www/lisabeth/app/Controller/SmsTemplatesController.php:115
+msgid "There is some error while deleting the SMS template."
+msgstr "Der er sket en fejl ved sletningen af SMS skabelonen."
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:76
+msgid "You are not authorized user"
+msgstr "Din bruger kan ikke dette"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:138
+msgid "Find User"
+msgstr "Find bruger"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:265
+msgid "You have signed up successfully"
+msgstr "Du har tilmeldt dig"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:275
+msgid "You cannot signed up.Please try again."
+msgstr "Du kan ikke tilmelde dig. Prøv igen"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:359
+msgid "The user has been submitted"
+msgstr "Brugeren er tilmeldt"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:361
+#: /var/www/lisabeth/app/Controller/UsersController.php:371
+msgid "User Add"
+msgstr "Tilmeld bruger"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:369
+msgid "The user not submitted successfully"
+msgstr "Brugeren er ikke tilmeldt"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:459
+msgid "The user has been updated"
+msgstr "Brugeren er opdateret"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:461
+#: /var/www/lisabeth/app/Controller/UsersController.php:470
+msgid "User Edit"
+msgstr "Rediger bruger"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:468
+msgid "The user cannot updated"
+msgstr "Brugeren kan ikke opdateres"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:528
+msgid "The User has been deleted"
+msgstr "Brugeren er slettet"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:651
+msgid "Entered Username or Email is not Correct. Please Enter Valid Username or Email."
+msgstr "Brugernavn eller e-mail er ikke korrekt. Indtast et korrekt"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:671
+msgid "We have Sent the Password Reset Link on Your Email Please Check your Email"
+msgstr "Vi har sendt en e-mail til dig, så du kan genskabe dit password. Tjek venligst din mail."
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:695
+msgid "Your are not authorized user. Please, try again."
+msgstr "Du har ikke adgang til denne side"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:709
+msgid "Your Password is reset"
+msgstr "Dit password er gendannet"
+
+#: /var/www/lisabeth/app/Controller/UsersController.php:714
+msgid "Please Enter valid Password and Confirm Password."
+msgstr "Indtast et gyldigt password"
+
+#: /var/www/lisabeth/app/Controller/DiscountsController.php:100
+#: /var/www/lisabeth/app/Controller/DiscountsController.php:175
+msgid "The Discount has been submitted"
+msgstr "Rabatten er tilføjet"
+
+#: /var/www/lisabeth/app/Controller/DiscountsController.php:102
+#: /var/www/lisabeth/app/Controller/DiscountsController.php:112
+#: /var/www/lisabeth/app/Controller/DiscountsController.php:177
+#: /var/www/lisabeth/app/Controller/DiscountsController.php:187
+msgid "Discount Add"
+msgstr "Tilføj rabat"
+
+#: /var/www/lisabeth/app/Controller/DiscountsController.php:110
+#: /var/www/lisabeth/app/Controller/DiscountsController.php:185
+msgid "The Discount not submitted successfully"
+msgstr "Rabatten er ikke tilføjet korrekt"
+
+#: /var/www/lisabeth/app/Controller/DiscountsController.php:206
+msgid "The Discount has been deleted"
+msgstr "Rabatten er slettet"
+
+#: /var/www/lisabeth/app/Controller/AreasController.php:137
+msgid "Area is added."
+msgstr "Område er tilføjet"
+
+#: /var/www/lisabeth/app/Controller/AreasController.php:139
+msgid "Area Add"
+msgstr "Tilføj område"
+
+#: /var/www/lisabeth/app/Controller/AreasController.php:204
+msgid "Area is Updated."
+msgstr "Område er opdateret"
+
+#: /var/www/lisabeth/app/Controller/AreasController.php:206
+msgid "Area Update"
+msgstr "Område opdatering"
+
+#: /var/www/lisabeth/app/Controller/AreasController.php:253
+msgid "The Area has been deleted"
+msgstr "Området er slettet"
+
+#: /var/www/lisabeth/app/Controller/ProductsController.php:110
+msgid "The Product has been submitted"
+msgstr "Produktet er tilføjet"
+
+#: /var/www/lisabeth/app/Controller/ProductsController.php:112
+#: /var/www/lisabeth/app/Controller/ProductsController.php:122
+msgid "Product Add"
+msgstr "Tilføj produkt"
+
+#: /var/www/lisabeth/app/Controller/ProductsController.php:120
+msgid "The Product not submitted successfully"
+msgstr "Produktet er ikke oprettet korrekt"
+
+#: /var/www/lisabeth/app/Controller/ProductsController.php:179
+msgid "The Product has been updated"
+msgstr "Produktet er opdateret"
+
+#: /var/www/lisabeth/app/Controller/ProductsController.php:181
+#: /var/www/lisabeth/app/Controller/ProductsController.php:191
+msgid "Product Update"
+msgstr "Produkt opdatering"
+
+#: /var/www/lisabeth/app/Controller/ProductsController.php:189
+msgid "The Product not updated successfully"
+msgstr "Produktet blev ikke opdateret"
+
+#: /var/www/lisabeth/app/Controller/ProductsController.php:206
+msgid "The Product has been deleted"
+msgstr "Produktet er slettet"
+
+#: /var/www/lisabeth/app/Controller/ProductsController.php:216
+msgid "Please Select product to add."
+msgstr "Vælg produkt der skal tilføjes"
+
+#: /var/www/lisabeth/app/Controller/ProductsController.php:237
+msgid "Product added successfully."
+msgstr "Produktet er tilføjet"
+
+#: /var/www/lisabeth/app/Controller/ProductsController.php:249
+msgid "Sorry cannot add product. Please try again later."
+msgstr "Kan ikke tilføje produktet. Prøv igen senere"
+
+#~ msgid " for"
+#~ msgstr " for"
+
+#, fuzzy
+#~ msgid "Compnay Nick Name already exists."
+#~ msgstr "Brugernavnet findes allerede"
+
+#~ msgid "Nick Name For Company"
+#~ msgstr "Kaldenavn til Company"
+
+#~ msgid "Other Student"
+#~ msgstr "Andre studerende"
+
+#~ msgid "Edit Teacher"
+#~ msgstr "Rediger lærer"
+
+#~ msgid "Instructor Wise Booking Tracks Report"
+#~ msgstr "Instruktør klogt booking spor rapport"
+
+#~ msgid "Teacher Wise Booking Tracks Report"
+#~ msgstr "Lærer klogt Booking spor rapport"
+
+#~ msgid "Please Enter Nick Name For Company."
+#~ msgstr "Venligst Indtast kaldenavn for Selskabet."
+
+#~ msgid "External"
+#~ msgstr "Ekstern"
+
+#~ msgid "January"
+#~ msgstr "januar"
+
+#~ msgid "February"
+#~ msgstr "februar"
+
+#~ msgid "March"
+#~ msgstr "marts"
+
+#~ msgid "April"
+#~ msgstr "april"
+
+#~ msgid "May"
+#~ msgstr "maj"
+
+#~ msgid "June"
+#~ msgstr "juni"
+
+#~ msgid "July"
+#~ msgstr "juli"
+
+#~ msgid "August"
+#~ msgstr "august"
+
+#~ msgid "September"
+#~ msgstr "september"
+
+#~ msgid "October"
+#~ msgstr "oktober"
+
+#~ msgid "November"
+#~ msgstr "november"
+
+#~ msgid "December"
+#~ msgstr "december"
+
+#, fuzzy
+#~ msgid "Lisbeth"
+#~ msgstr "&copy; Lisbeth"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Book for Date"
+#~ msgstr "Bog for Date"
+
+#~ msgid "Booked On"
+#~ msgstr "Reserveret på"
+
+#~ msgid "Please fill up student name."
+#~ msgstr "Udfyld elevens navn"
+
+#~ msgid "Please fill up student phone number."
+#~ msgstr "Udfyld elevens telefonnummer"
+
+#~ msgid "Please Enter Valid Username."
+#~ msgstr "Indtast et gyldig brugernavn"
+
+#~ msgid "New student not selected"
+#~ msgstr "Ny studerende ikke valgt"
+
+#~ msgid "Please check Not Met status"
+#~ msgstr "tjek Ikke opfyldt status"
+
+#~ msgid "Please uncheck Met status"
+#~ msgstr "Venligst fjern markeringen Met status"
+
+#~ msgid "Please check only one Status"
+#~ msgstr "Tjek venligst kun en status"
+
+#~ msgid "Please check Not Met"
+#~ msgstr "Tjek venligst ikke overholdes"
+
+#~ msgid "Date And Time Slot"
+#~ msgstr "Tidsinterval"
+
+#~ msgid "Confirmation Status"
+#~ msgstr "Bekræftelses status"
+
+#~ msgid "No Numeric value or Special characters are allowed in Firstname."
+#~ msgstr "Kun bogstaver er tilladt"
+
+#~ msgid "No Numeric value or Special characters are allowed in Lastname."
+#~ msgstr "Kun bogstaver er tilladt"
+
+#~ msgid "Bookings By "
+#~ msgstr "Booking af"
+
+#~ msgid "Please Enter Some Brief Description."
+#~ msgstr "Indtast en kort beskrivelse."
+
+#~ msgid "Start Date is greater than End Date."
+#~ msgstr "Start datoen er efter slut datoen."
+
+#~ msgid "Some Tracks Are Already Booked.Please Select Valid Tracks."
+#~ msgstr "Nogle af banerne er booket. Vælg venligst ledige baner."
+
+#~ msgid "Please Select Student For Booking."
+#~ msgstr "Vælg en elev til bookningen."
+
+#~ msgid "Please Select Status For Booking."
+#~ msgstr "Vælg en status for bookingen."
+
+#~ msgid "The Area has been saved"
+#~ msgstr "Området er gemt"
+
+#~ msgid "The Area could not be saved. Please, try again."
+#~ msgstr "Området kunne ikke gemmes. Prøv igen"
+
+#~ msgid "Brief Description"
+#~ msgstr "Kort beskrivelse"
+
+#~ msgid "Breif Description"
+#~ msgstr "Kort beskrivelse"
+
+#~ msgid "Enter Breif Description"
+#~ msgstr "Indtast kort beskrivelse"

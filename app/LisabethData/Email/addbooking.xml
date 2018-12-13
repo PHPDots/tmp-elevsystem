@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Skeleton Email Meta Template
+    
+    @package Lisbeth
+    @subpackage app.LisabethData.Email
+-->
+<metas>
+    <meta>
+        <name>First Name</name>
+        <key>firstname</key>
+        <class>Booking</class>
+        <property>firstname</property>
+        <hint>Firstname of the User</hint>
+    </meta>
+    <meta>
+        <name>Last Name</name>
+        <key>lastname</key>
+        <class>Booking</class>
+        <property>lastname</property>
+        <hint>Lastname of the User</hint>
+    </meta>
+    <meta>
+        <name>Booking Date</name>
+        <key>bookingdate</key>
+        <class>Booking</class>
+        <property>bookingdate</property>
+        <hint>Booking Date</hint>
+    </meta>
+    <meta>
+        <name>Area</name>
+        <key>area</key>
+        <class>Booking</class>
+        <property>area</property>
+        <hint>Area of Booked Tracks</hint>
+    </meta>
+    <meta>
+        <name>Booked By</name>
+        <key>bookedby</key>
+        <class>Booking</class>
+        <property>bookedby</property>
+        <hint>The person who booked the tracks</hint>
+    </meta>
+    <meta>
+        <name>Booked By</name>
+        <key>bookedby</key>
+        <class>Booking</class>
+        <property>bookedby</property>
+        <hint>The person who booked the tracks</hint>
+    </meta>
+    <meta>
+        <name>Table</name>
+        <key>table</key>
+        <class>Booking</class>
+        <property>table</property>
+        <hint>Booking Details</hint>
+    </meta>
+</metas>

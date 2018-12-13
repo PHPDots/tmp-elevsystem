@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<config>
+<templates>
+    <template>
+        <name>User Create</name>
+        <key>usercreate</key>
+    </template>
+    <template>
+        <name>Booking Details</name>
+        <key>bookingdetails</key>
+    </template>
+    <template>
+        <name>Student Booking Template</name>
+        <key>studentTemplate</key>
+    </template>
+    <template>
+        <name>Student Booking Delete Template</name>
+        <key>studentDeleteTemplate</key>
+    </template>
+    <template>
+        <name>Teacher Booking Template</name>
+        <key>teacherTemplate</key>
+    </template>
+    <template>
+        <name>Teacher Booking Delete Template</name>
+        <key>teacherDeleteTemplate</key>
+    </template>
+    <template>
+        <name>Booked By Other Booking Template</name>
+        <key>bookedByTemplate</key>
+    </template>
+    <template>
+        <name>Booked By Other Delete Booking Template</name>
+        <key>bookedByDeleteTemplate</key>
+    </template>
+    <template>
+        <name>External Student Booking Details</name>
+        <key>externalbookingdetails</key>
+    </template>
+    <template>
+        <name>Booking Details Reminder</name>
+        <key>bookingReminder</key>
+    </template>
+    <template>
+        <name>Booking Details Reminder for Student (24 Hours)</name>
+        <key>bookingStudentReminder</key>
+    </template>
+
+    <template>
+        <name>Booking Details Reminder for Student (3 Hours)</name>
+        <key>bookingStudentThreeHourReminder</key>
+    </template>
+
+    <template>
+        <name>Calendar View Add Booking Notification</name>
+        <key>calendarViewAddBookingNotification</key>
+    </template>
+
+    <template>
+        <name>Calendar View Delete Booking Notification</name>
+        <key>calendarViewDeleteBookingNotification</key>
+    </template>
+
+    <template>
+        <name>Student Balance Notification</name>
+        <key>studentBalanceNotification</key>
+    </template>
+    <template>
+        <name>Student No New Drivinglessons Last 60 Day</name>
+        <key>studentnonewdrivinglessonslast60day</key>
+    </template>
+</templates>
+</config>
